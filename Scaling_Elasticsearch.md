@@ -1,4 +1,13 @@
-How we scaled Elasticsearch to handle 1.4 TB of logs per day
+### How we scaled Elasticsearch to handle 1.4 TB of logs per day
+
+#### Understanding Elasticsearch
+
+[] Describe interaction between nodes/shards/indices
+
+[] Go into lucene internals, show our diagram of how ES concepts map to Lucene concepts (e.g. Elasticsearch shard = Lucene index)
+
+
+#### Outline of our configuration history
 
 - Configuration Zero: Two index types, "job" and "everything else", job had no replicas
     * Indices a little bit too big
@@ -10,6 +19,9 @@ How we scaled Elasticsearch to handle 1.4 TB of logs per day
 - Final Configuration: Filebeat->Kafka->Logstash->Elasticsearch
     * Filebeat feeds into Kafka.
     * One daily index with as many shards as necessary to get the right size shards
+
+
+#### Context on final configuration
 
 The current approach is dead simple - we just have an index for a day's logs, split up into 128 primary shards, with a replication factor of 1. The primary/replica shard count was chosen such that we make optimal use of our physical resources, while keeping shards between 10-50GB.
 Hardware-wise, we just moved to 8 i3.8xlarge.elasticsearch nodes, which gives us 256 VCPU's and 1952 GB of ram, with a total of 32 NVMe SSDs.
