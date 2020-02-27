@@ -74,9 +74,21 @@ Remember, **a hypothesis is a model of reality.** And like all models, to be use
 
 ## Biases
 
-As humans, we are genetically endowed with a set of cognitive biases that work to promote our survival/success in the environment that originally shaped us. Some of these biases, such as optimism bias, can still serve us well in situations we encounter. But overall, we need to be wary of our biases, since they will by definition distort clear perception.
+As humans, we are genetically endowed with a set of cognitive biases that are believed to work to promote our survival/success in the environment that originally shaped us. Some of these biases, such as optimism bias, can still serve us well in situations we encounter. But overall, we need to be wary of our biases, since they will by definition distort clear perception.
 
-Understanding biases therefore helps us to see things more clearly. But watch out for the trap - just because we intellectually can rattle of a list of biases, does not mean we are immune to them. We must be perpetually on guard. In short, as soon as we think we've won the battle against cognitive biases, we've really lost it.
+Understanding biases therefore helps us to see things more clearly. But watch out for the trap - just because we intellectually can rattle of a list of biases, does not mean we are immune to them. We must be perpetually on guard. In short, as soon as we think we've won the battle against cognitive biases, we've really lost it. (See: [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot))
+
+### Anchoring Effect
+
+This effect leads us to be irrationally attached to our initial ideas/hypothesis. As a result, we now have a blind spot that leads us to miss a datapoint that would have disproved our initial hypothesis.
+
+The best way to combat this distortion, beyond simply being aware of it, is adhering to **Principle #0: Separate your observations from your hypotheses**.
+
+### Availability heuristic
+
+The tendency to overestimate the likelihood of events that have occurred most recently or are highly salient (and thus readily surface in our memory). Can be thought of as the step-child of the Anchoring Effect and (see next) Hindsight Bias.
+
+Among other things, this can manifest itself as seeing a symptom that we've previously seen, and then immediately assuming that the root cause is the same as the previous root cause that we uncovered.
 
 ### Hindsight Bias
 
@@ -84,11 +96,27 @@ This bias leads us to evaluate our past decisions as if we had known information
 
 ### Fundamental Attribution Error
 
-[TODO] In short, blaming the person rather than the situation. Not just in the literal sense of "blame" but also "failing to examine structural/systemic factors"
+Wikipedia says it best: the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error) is "the tendency for people to under-emphasize situational explanations for an individual's observed behavior while over-emphasizing dispositional and personality-based explanations for their behavior"
 
-### Anchoring Effect
+In short, this generally manifests itself as blaming the person rather than the situation - not just in the literal sense of the word "blame" but also as in "failing to examine structural/systemic factors that allowed the error to occur".
 
-This effect leads us to be irrationally attached to our initial ideas/hypothesis. As a result, we now have a blind spot that leads us to miss a datapoint that would have disproved our initial hypothesis.
+### Bandwagon Effect
+
+The tendency to adopt the beliefs that others around us have. This manifests itself as an organization rapidly converging on the same purported root cause of a bug, when really the cause lies eleswhere. This is especially dangerous when paired with / caused by the Anchoring Effect. It's very possible for a hypothesis that was proposed early on to be blindly parroted by others in an organization, failing to update our model of the world as new observations are made.
+
+### Base Rate Fallacy
+
+Humans have a lot of trouble with statistics, and this fallacy is a great example of that.
+
+The base rate fallacy occurs when we neglect to consider the rate at which an effect occurs in the general sense, leading us to be wildly off base about the likelihood of a certain occurence.
+
+The example of "bit flips" outlined in **Principle #1: Know your assumptions** serves as a good example here. If you're debugging bizarre behavior on software that runs on a single machine for a short period of time, while bit flips are certainly still possible, they are highly unlikely to be the true root cause.
+
+### Recency illusion
+
+"The illusion that a phenomenon one has noticed only recently is itself recent."
+
+This one is highly relevant to debugging. Often, to simplify the search space, we examine what changed around the time that a problem was noticed. This is often an effective strategy, but it leads us astray when the issue has actually been present for a long time, yet we simply failed to notice it until now.
 
 ## A bit on Root Cause Analysis
 
