@@ -16,9 +16,15 @@
     * Filebeat feeds into Kafka. Inclusion of Kafka means no longer dropping logs
     * Create separate Elasticsearch index per Kafka topic (side effect: orders of magnitude variance in index size)
 
+    ^ Combination of no longer dropping logs + kafka topic<->ES index => cluster cannot handle this volume
+
 - Final Configuration: Filebeat->Kafka->Logstash->Elasticsearch
     * Filebeat feeds into Kafka.
     * One daily index with as many shards as necessary to get the right size shards
+
+#### What we look for in a healthy cluster
+
+- Memory usage should be fluctuating around the 75% threshold. Look for a "sawtooth" pattern where memory approaches 75%, decreases as concurrent mark sweep garbage collection kicks in,
 
 
 #### Context on final configuration
