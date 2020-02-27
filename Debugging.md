@@ -26,11 +26,11 @@ Often, after we discover the root cause of a bug, we have the sensation of "of c
 
 ### The high-level algorithm
 
-Step 0: Document the observed behavior of the system. In this stage, finding the "steps to reproduce" (commonly abbreviated STR) is critical. By their nature, the trickiest bugs do not have reliable STR (or more accurately, finding the reliable STR is prohibitively difficult), but many bugs do have reliable reproductions.
+**Step 0:** Document the observed behavior of the system. In this stage, finding the "steps to reproduce" (commonly abbreviated STR) is critical. By their nature, the trickiest bugs do not have reliable STR (or more accurately, finding the reliable STR is prohibitively difficult), but many bugs do have reliable reproductions.
 
-Step 1: Come up with a set of possible hypotheses, loosely ranked by estimated likelihood. This doesn't have to be an actual percent number; rather, it's sufficient to know the relative rankings (ex: of hypotheses A, B, and C, A is the most likely.)
+**Step 1:** Come up with a set of possible hypotheses, loosely ranked by estimated likelihood. This doesn't have to be an actual percent number; rather, it's sufficient to know the relative rankings (ex: of hypotheses A, B, and C, A is the most likely.)
 
-Step 2: Greedily choose the most likely hypothesis from Step 1, and identify what datapoints would allow us to either confirm or deny the hypothesis. It works out that it's generally easier to find data that definitively denies a hypothesis, rather than data that definitively proves a hypothesis.
+**Step 2:** Greedily choose the most likely hypothesis from Step 1, and identify what datapoints would allow us to either confirm or deny the hypothesis. It works out that it's generally easier to find data that definitively denies a hypothesis, rather than data that definitively proves a hypothesis.
 
 At this point we just loop over Steps 1 and 2 repeatedly (perhaps returning to Step 0 if we find errors in our understanding of observed behavior) until we are confident that we have found a hypothesis that *has real explanatory power*.
 
