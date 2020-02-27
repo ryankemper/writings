@@ -92,6 +92,20 @@ This effect leads us to be irrationally attached to our initial ideas/hypothesis
 
 ## A bit on Root Cause Analysis
 
-The **root cause analysis** process - hereafter abbreviated as _RCA_ - could be described as "finding the bug _behind the bug_". When operating in this mode, we are looking to examine the structural factors that made the bug possible in the first place. If we skip this crucial process, we will fix the "local" bug, but will not make any progress on addressing the system vulnerability that lead to the bug's manifestation.
+The **root cause analysis** process - hereafter abbreviated as _RCA_ - could be described as "finding the bug _behind the bug_". When operating in this mode, we are looking to examine the structural factors that made the bug possible in the first place. If we skip this crucial process, we will fix the "local" bug, but will not make any progress on addressing the "global" vulnerability that lead to the bug's manifestation.
 
-Remember: _the bug is trying to tell you something_. As our understanding of medical science has advanced, we've learned that there is a difference between a _symptom_ and a _problem_. The symptom is the externally visible manifestation of a problem - in logical terms, the existence of a symptom implies the existence of a problem, but the causality does not work the other way. Suppressing a symptom will never fix the underlying problem.
+Remember: _the bug is trying to tell you something_. As a quick analogy, as our understanding of medical science has advanced, we've learned that there is a difference between a _symptom_ and a _problem_. The symptom is the externally visible manifestation of a problem - in logical terms, the existence of a symptom implies the existence of a problem, but the causality does not work the other way: **suppressing a symptom will never fix the underlying problem**.
+
+This is why if your first response to feeling sick is to pound 800 mg of Ibuprofen (Advil), yet you make no changes to your environment, nor your sleep, nor your diet/exercise, you'll find yourself getting repeatedly sick.
+
+Similarly, if your response to an operator running a command that blows away your production database is to add a section to your documentation saying "make sure commands you run won't blow away the production database", you'll soon find the same problem surfacing again, just under slightly different conditions. **The same unaddressed structural vulnerability can manifest itself in a countably infinite number of ways.**
+
+A full explanation of the RCA process and how to conduct a proper post-mortem could occupy the size of a small novel, so that's all I'll say on the matter.
+
+## Conclusion
+
+The high level process here is simple: construct hypotheses, gather data, and then reconcile your hypotheses with your data. Rinse and repeat.
+
+In practice, implementing this strategy effectively takes a great deal of learning and hands-on experience. Some of the best debugggers and metaphorical firefighters tend to be the seat-of-the-pants type, who don't appear to be following a structured process at all. Yet if you examine their behavior, you'll likely find that they've been implementing the algorithm that I've specified subconsciously.
+
+Whether you're just starting your career or you've been in the industry for decades, mastering the art of debugging, as well as the "soft skills" of incident management - effective, low-context communication, and maintaining a calm demeanor just to name two - will pay enormous dividends.
