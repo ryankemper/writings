@@ -44,9 +44,25 @@ What's the motivation for this principle? Often, we start out with a certain hyp
 
 In short, all of our observations are filtered through the lens with which we view them. This is unavoidable, but by packaging these observations up into discrete, self-enclosed units, we can minimize the risk that we get anchored on the wrong hypothesis; and perhaps more importantly, when we iterate and develop new hypotheses, we can "test" these hypotheses against our accumulated set of observations.
 
-### Principle 1: Give the "Why" rather than just the "What"
+### Principle 1: Know your assumptions
 
-[TODO]
+One of the most common ways to get stuck for enormous amounts of time is to get bit by unchecked assumptions.
+
+A common pattern is that we start out debugging with a set of assumptions that we believe to be true. However, we don't check these assumptions. Assumptions are a useful tool - they provide us the intellectual cover to operate at a higher abstraction level. But, particularly when we start finding that our observations do not mesh with our model of the system, we need to circle back and re-examine the implicit assumptions that we've been working under.
+
+While it's great to have validated _all_ of our assumptions, in practice doing so is borderline impossible. Instead, what I recommend doing is _outlining_ the assumptions being made. This won't be an exhaustive list, but it serves as a nice starting point.
+
+Then, when it feels like a dead end has been reached, or an observation seems impossible given the assumptions we've made, we then circle back and validate our assumptions one-by-one. I recommend proceeding from "easiest to validate" to "hardest to validate".
+
+**Always remember that assumptions serve a useful purpose**. They allow us to operate at a certain level of abstraction. Without abstraction, we experience recursive explosion, where progressively replacing our abstractions with more accurate models of the world quickly brings us all the way down to the emergent properties of the universe.
+
+For example, one abstraction that modern computing relies heavily on is the idea of a _bit_. As software engineers, we think of a bit as "a 0 or 1". Seems simple, right? But our notion of a bit is really an over-simplification. Modern computers represent a bit using the physical (electrochemical) properties of semi-conductors. We distinguish a 0 vs a 1 based off whether the voltage is low or high respectively. Because this abstraction of a bit is really being represented by a physical process, it's possible for inconveniently timed electromagnetic fluctuations to "flip" the value, changing a 0 to a 1 or vice versa.
+
+One of the most fundamental assumptions we make when debugging is that the behavior we observe is precisely the behavior that our code specifies. But when bit flips occur, it's possible - indeed, highly likely - that we will observe some sort of behavior (output) that is **impossible to produce from our source code**. Because the chance of a bit flip occurring is vanishingly small, they tend to only pop up when you're operating at ["Google scale"](http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf).
+
+Following the assumption-validation algorithm above, we would check for bit flips after exhaustively checking our easier-to-validate assumptions, such as "the file I'm looking at is what my server is actually running". This is the right way to do it, because otherwise we run the risk of falling deep into a "rabbit hole", looking for bit flips when there are none, when the real issue is often really just our code, or a library we depend upon, or a compiler bug.
+
+By being aware of our assumptions, such as "Once physically stored in memory, values will stay the same unless our code intentionally mutates them", we put ourselves in the right position to eventually uncover the real problem.
 
 ## Biases
 
@@ -63,21 +79,3 @@ This bias leads us to evaluate our past decisions as if we had known information
 ### Anchoring Effect
 
 This effect leads us to be irrationally attached to our initial ideas/hypothesis. As a result, we now have a blind spot that leads us to miss a datapoint that would have disproved our initial hypothesis.
-
-### Unchecked assumptions
-
-A common pattern is that we start out debugging with a set of assumptions that we believe to be true. However, we don't check these assumptions. Assumptions are a useful tool - they provide us the intellectual cover to operate at a higher abstraction level. But, particularly when we start finding that our observations do not mesh with our model of the system, we need to circle back and re-examine the implicit assumptions that we've been working under.
-
-While it's great to have validated _all_ of our assumptions, in practice doing so is borderline impossible. Instead, what I recommend doing is _outlining_ the assumptions being made. This won't be an exhaustive list, but it serves as a nice starting point.
-
-Then, when it feels like a dead end has been reached, or an observation seems impossible given the assumptions we've made, we then circle back and validate our assumptions one-by-one. I recommend proceeding from "easiest to validate" to "hardest to validate".
-
-Remember that assumptions have a role. They allow us to operate at a certain level of abstraction. Without abstraction, we experience recursive explosion, where progressively replacing our abstractions with accurate models of the world quickly brings us all the way down to the emergent properties of the universe.
-
-For example, one abstraction that modern computing relies heavily on is the idea of a bit. As software engineers, we think of a bit as a "0 or 1". Seems simple, right? But our notion of a bit is really an over-simplification. We represent a bit using the physical (electrochemical) properties of semi-conductors. We distinguish a 0 vs a 1 based off whether the voltage is low or high respectively. But because this abstraction of a bit is really being represented by a physical process, it's possible for inconveniently timed electromagnetic fluctuations to "flip" the value, changing a 0 to a 1 or vice versa.
-
-One of the most fundamental assumptions we make when debugging is that the behavior we observe is precisely the behavior that our code specifies. But when bit flips occur, it's possible - indeed, highly likely - that we will observe some sort of behavior (output) that is **impossible to produce from our source code**. Because the chance of a bit flip occurring is vanishingly small, they tend to only pop up when you're operating at "Google scale".
-
-Following the assumption-validation algorithm above, we would check for bit flips after exhaustively checking our easier-to-validate assumptions. This is the right way to do it, because otherwise we run the risk of falling deep into a "rabbit hole", looking for bit flips when there are none, when the real issue is often really just our code, or a library we depend upon, or a compiler bug.
-
-By being aware of our assumptions, such as "Once physically stored in memory, values will stay the same unless our code intentionally mutates them", we put ourselves in the right position to eventually uncover the real problem.
