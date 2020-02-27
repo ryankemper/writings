@@ -74,7 +74,7 @@ Remember, **a hypothesis is a model of reality.** And like all models, to be use
 
 ## Biases
 
-As humans, we are genetically endowed with a set of cognitive biases that are believed to work to promote our survival/success in the environment that originally shaped us. Some of these biases, such as optimism bias, can still serve us well in situations we encounter. But overall, we need to be wary of our biases, since they will by definition distort clear perception.
+As humans, we are genetically endowed with a set of cognitive biases that are believed to promote our survival/success in the environment that originally shaped us. Some of these biases, such as optimism bias, can still serve us well in situations we encounter. But overall, we need to be wary of our biases, since they will by definition distort clear perception.
 
 Understanding biases therefore helps us to see things more clearly. But watch out for the trap - just because we intellectually can rattle of a list of biases, does not mean we are immune to them. We must be perpetually on guard. In short, as soon as we think we've won the battle against cognitive biases, we've really lost it. (See: [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot))
 
@@ -116,7 +116,7 @@ The example of "bit flips" outlined in **Principle #1: Know your assumptions** s
 
 "The illusion that a phenomenon one has noticed only recently is itself recent."
 
-This one is highly relevant to debugging. Often, to simplify the search space, we examine what changed around the time that a problem was noticed. This is often an effective strategy, but it leads us astray when the issue has actually been present for a long time, yet we simply failed to notice it until now.
+This one is highly relevant to debugging. A common techniquye to simplify the search space is to examine what changed around the time that a problem was noticed. This is often an effective strategy, but it leads us astray when the issue has actually been present for a long time, yet we simply failed to notice it until now.
 
 ## A bit on Root Cause Analysis
 
