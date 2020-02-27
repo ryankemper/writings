@@ -76,6 +76,8 @@ Remember, **a hypothesis is a model of reality.** And like all models, to be use
 
 As humans, we are genetically endowed with a set of cognitive biases that work to promote our survival/success in the environment that originally shaped us. Some of these biases, such as optimism bias, can still serve us well in situations we encounter. But overall, we need to be wary of our biases, since they will by definition distort clear perception.
 
+Understanding biases therefore helps us to see things more clearly. But watch out for the trap - just because we intellectually can rattle of a list of biases, does not mean we are immune to them. We must be perpetually on guard. In short, as soon as we think we've won the battle against cognitive biases, we've really lost it.
+
 ### Hindsight Bias
 
 This bias leads us to evaluate our past decisions as if we had known information that we later discovered. This leads us to mis-attribute the root cause of a bug to "making a preventable mistake" rather than "making a mistake that logically followed from the set of information we had access to at the time". Understanding this bias is critical after we have discovered the bug and have moved forward to the "Root Cause Analysis" stage where we examine the structural factors that led to the bug/error in the first place.
