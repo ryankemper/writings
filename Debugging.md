@@ -1,6 +1,6 @@
 # Debugging
 
-### Why this might be relevant to you
+### Why this article might be relevant to you
 
 Debugging is one of the most important skills for "real-world" development work.
 
