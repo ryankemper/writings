@@ -6,9 +6,11 @@ Debugging is one of the most important skills for "real-world" development work.
 
 There's sometimes a misconception that debugging is a skill for the "Ops" folks, but not necessary for a run-of-the-mill developer. This could not be further from the truth.
 
-What this article covers: The high-level philosophy of debugging.
+Furthermore, at least in traditional computer science curriculum, **the principles of debugging are not taught**. Rather, people tend to develop an intuition for debugging over years of experience troubleshooting and putting out fires. There's no substitute for experience, but I strongly believe that a simple grounding in the fundamental "philosophy of debugging" puts an individual way ahead of the curve.
 
-What this article doesn't cover: Specific tricks like usage of programs like GDB, etc.
+**What this article covers:** The high-level philosophy of debugging.
+
+**What this article doesn't cover:** Specific tricks like usage of programs like GDB, etc.
 
 ### What is debugging?
 
