@@ -18,7 +18,7 @@ At its core, _debugging_ is solving an observed problem with a system by iterati
 
 A _bug_ is defined as an observed behavior of the system that falls out of line with the behavioral specifications. These can be explicit, such as in a requirements doc, or implicit - your users know a bug when they see one, even if they can't articulate precisely what's behaving incorrectly.
 
-Our goal with debugging is to figure out what's going wrong where. Remember, nearly all bugs are the logical conclusion of the software we wrote doing exactly what we told it to do.
+Our goal with debugging is to figure out what's going wrong where. Remember, **nearly all bugs are the logical conclusion of the software we wrote doing exactly what we told it to do**.
 
 Bugs arise because the automated system is doing what it's told to do, but what it was told to do did not account for certain edge cases: unexpected input, counter-intuitive interleaving of events, etc.
 
