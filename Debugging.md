@@ -36,6 +36,8 @@ At this point we just loop over Steps 1 and 2 repeatedly (perhaps returning to S
 
 ## Principles
 
+Whether we're debugging our C program down into the assembly level, or just trying to figure out why a global variable got mutated in a high-level interpreted language, there are principles that are so effective as to be considered universal.
+
 ### Principle 0: Separate your observations from your hypotheses
 
 The data we decide to gather is influenced by our outlined hypotheses (whether explicitly or implicitly). However, it's critical that observations/datapoints are gathered as "artifacts" - that is, well-documented observations that can be understood by someone who has not participated in the debugging process thus far.
@@ -63,6 +65,12 @@ One of the most fundamental assumptions we make when debugging is that the behav
 Following the assumption-validation algorithm above, we would check for bit flips after exhaustively checking our easier-to-validate assumptions, such as "the file I'm looking at is what my server is actually running". This is the right way to do it, because otherwise we run the risk of falling deep into a "rabbit hole", looking for bit flips when there are none, when the real issue is often really just our code, or a library we depend upon, or a compiler bug.
 
 By being aware of our assumptions, such as "Once physically stored in memory, values will stay the same unless our code intentionally mutates them", we put ourselves in the right position to eventually uncover the real problem.
+
+### Principle 2: Follow your hypothesis to its logical conclusion
+
+Often, when we think we've discovered the root cause, we're content with an explanation like "high CPU load on this machine led to the program crashing". If we just stop there, we're going to end up being wrong a large portion of the time. We need to have a model of _why_ CPU load would lead to a program crashing.
+
+Remember, **a hypothesis is a model of reality.** And like all models, to be useful, it needs to have some sort of explanatory value that extends beyond the behavior that constitutes the bug. For example, we might predict that high CPU load lead to a crash because it temporally "spaced out" the instructions that code "usually" runs in a small interval of time, causing a race condition to be exposed that led to the ultimate crash. Now we have something that we can actually test. Note that even this new explanation is still vague - "causing a race condition" is a bit handwavey - but like everything in engineering, and indeed life, the key is to **iterate**, progressively working towards a more accurate model. We will never construct a model that perfectly matches reality - that's why we call it "reality". But we can keep iterating until we have achieved an acceptable level of accuracy.
 
 ## Biases
 
