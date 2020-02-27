@@ -89,3 +89,9 @@ This bias leads us to evaluate our past decisions as if we had known information
 ### Anchoring Effect
 
 This effect leads us to be irrationally attached to our initial ideas/hypothesis. As a result, we now have a blind spot that leads us to miss a datapoint that would have disproved our initial hypothesis.
+
+## A bit on Root Cause Analysis
+
+The **root cause analysis** process - hereafter abbreviated as _RCA_ - could be described as "finding the bug _behind the bug_". When operating in this mode, we are looking to examine the structural factors that made the bug possible in the first place. If we skip this crucial process, we will fix the "local" bug, but will not make any progress on addressing the system vulnerability that lead to the bug's manifestation.
+
+Remember: _the bug is trying to tell you something_. As our understanding of medical science has advanced, we've learned that there is a difference between a _symptom_ and a _problem_. The symptom is the externally visible manifestation of a problem - in logical terms, the existence of a symptom implies the existence of a problem, but the causality does not work the other way. Suppressing a symptom will never fix the underlying problem.
