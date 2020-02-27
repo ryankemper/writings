@@ -1,22 +1,22 @@
 # Debugging
 
-### Introduction
+### Why this might be relevant to you
 
 Debugging is one of the most important skills for "real-world" development work.
 
-There's sometimes a misconception that debugging is a skill for the "Ops" folks, but not necessary for a run-of-the-mill developer. This could not be further from the truth.
+There's sometimes a misconception that debugging is a skill for the "Ops" folks, but not necessary for your standard software developer. This could not be further from the truth.
 
 Furthermore, at least in traditional computer science curriculum, **the principles of debugging are not taught**. Rather, people tend to develop an intuition for debugging over years of experience troubleshooting and putting out fires. There's no substitute for experience, but I strongly believe that a simple grounding in the fundamental "philosophy of debugging" puts an individual way ahead of the curve.
 
-**What this article covers:** The high-level philosophy of debugging.
+**What this article covers:** The high-level algorithm and philosophy of debugging, including cognitive biases that can lead us astray
 
 **What this article doesn't cover:** Specific tricks like usage of programs like GDB, etc.
 
 ### What is debugging?
 
-At its core, debugging is solving an observed problem with a system by iteratively improving our understanding of the system until the cause of the bug is known.
+At its core, _debugging_ is solving an observed problem with a system by iteratively improving our understanding of the system until the cause of the bug is known.
 
-A "bug" is defined as an observed behavior of the system that falls out of line with the behavioral specifications. These can be explicit, such as in a requirements doc, or implicit - your users know a bug when they see one, even if they can't articulate precisely what's behaving incorrectly.
+A _bug_ is defined as an observed behavior of the system that falls out of line with the behavioral specifications. These can be explicit, such as in a requirements doc, or implicit - your users know a bug when they see one, even if they can't articulate precisely what's behaving incorrectly.
 
 Our goal with debugging is to figure out what's going wrong where. Remember, nearly all bugs are the result of taking [TODO: improve this] something to its logical conclusion.
 
