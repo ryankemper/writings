@@ -40,7 +40,7 @@ Whether we're debugging our C program down into the assembly level, or just tryi
 
 ### Principle 0: Separate your observations from your hypotheses
 
-The data we decide to gather is influenced by our outlined hypotheses (whether explicitly or implicitly). However, it's critical that observations/datapoints are gathered as "artifacts" - that is, well-documented observations that can be understood by someone who has not participated in the debugging process thus far.
+The data we decide to gather is influenced by our outlined hypotheses (whether explicitly or implicitly). However, it's critical that observations/datapoints are gathered as "artifacts" - that is, well-documented observations that can be understood by someone who has not participated in the debugging process thus far. *Tip*: It's often helpful to keep track of these artifacts - links to dashboards, log lines, etc - in a centralized location.
 
 What's the motivation for this principle? Often, we start out with a certain hypothesis, and look for data that confirms our "pet theory". The problem is, our attachment to this original hypothesis leads us to **(a)** miss uncovering key datapoints that are not adequately explained by our hypothesis, and possibly **(b)** fail to notice that some part of the data we _have_ gathered already is misaligned with our hypothesis.
 
