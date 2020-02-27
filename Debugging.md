@@ -54,8 +54,16 @@ As humans, we are genetically endowed with a set of cognitive biases that work t
 
 ### Hindsight Bias
 
-This bias leads us to evaluate our past decisions as if we should have known information that we later discovered. This leads us to mis-attribute the root cause of a bug to "making a preventable mistake" rather than "making a mistake that logically followed from the set of information we had access to at the time". Understanding this bias is critical after we have discovered the bug and have moved forward to the "Root Cause Analysis" stage where we examine the structural factors that led to the bug/error in the first place.
+This bias leads us to evaluate our past decisions as if we had known information that we later discovered. This leads us to mis-attribute the root cause of a bug to "making a preventable mistake" rather than "making a mistake that logically followed from the set of information we had access to at the time". Understanding this bias is critical after we have discovered the bug and have moved forward to the "Root Cause Analysis" stage where we examine the structural factors that led to the bug/error in the first place.
 
 ### Fundamental Attribution Error
 
 [TODO] In short, blaming the person rather than the situation. Not just in the literal sense of "blame" but also "failing to examine structural/systemic factors"
+
+### Anchoring Effect
+
+This effect leads us to be irrationally attached to our initial ideas/hypothesis. As a result, we now have a blind spot that leads us to miss a datapoint that would have disproved our initial hypothesis.
+
+### Unchecked assumptions
+
+A common pattern is that we start out debugging with a set of assumptions that we believe to be true. However, we don't check these assumptions. Assumptions are a useful tool - they provide us the intellectual cover to operate at a higher abstraction level. But, particularly when we start finding that our observations do not mesh with our model of the system, we need to circle back and re-examine the implicit assumptions that we've been working under.
