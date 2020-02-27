@@ -40,7 +40,7 @@ At this point we just loop over Steps 1 and 2 repeatedly (perhaps returning to S
 
 The data we decide to gather is influenced by our outlined hypotheses (whether explicitly or implicitly). However, it's critical that observations/datapoints are gathered as "artifacts" - that is, well-documented observations that can be understood by someone who has not participated in the debugging process thus far.
 
-What's the motivation for this principle? Often, we start out with a certain hypothesis, and look for data that confirms our "pet theory". The problem is, our attachment to this original hypothesis leads us to (a) miss uncovering key datapoints that are not adequately explained by our hypothesis, and possibly (b) fail to notice that some part of the data we _have_ gathered already is misaligned with our hypothesis.
+What's the motivation for this principle? Often, we start out with a certain hypothesis, and look for data that confirms our "pet theory". The problem is, our attachment to this original hypothesis leads us to **(a)** miss uncovering key datapoints that are not adequately explained by our hypothesis, and possibly **(b)** fail to notice that some part of the data we _have_ gathered already is misaligned with our hypothesis.
 
 In short, all of our observations are filtered through the lens with which we view them. This is unavoidable, but by packaging these observations up into discrete, self-enclosed units, we can minimize the risk that we get anchored on the wrong hypothesis; and perhaps more importantly, when we iterate and develop new hypotheses, we can "test" these hypotheses against our accumulated set of observations.
 
