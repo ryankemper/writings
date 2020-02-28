@@ -116,7 +116,7 @@ The example of "bit flips" outlined in **Principle #1: Know your assumptions** s
 
 "The illusion that a phenomenon one has noticed only recently is itself recent."
 
-This one is highly relevant to debugging. A common techniquye to simplify the search space is to examine what changed around the time that a problem was noticed. This is often an effective strategy, but it leads us astray when the issue has actually been present for a long time, yet we simply failed to notice it until now.
+This one is highly relevant to debugging. A common technique to simplify the search space is to examine what changed around the time that a problem was noticed. This is often an effective strategy, but it leads us astray when the issue has actually been present for a long time, yet we simply failed to notice it until now.
 
 ## A bit on Root Cause Analysis
 
