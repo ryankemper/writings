@@ -166,14 +166,3 @@ Our leaders have tried to stop people from getting sick by closing down schools 
 We might get sick when "saliva" (spit) from other people gets onto us. We can reduce the chance of getting sick by washing our hands and not touching our face, and we can avoid making others sick by doing our best to avoid coughing or sneezing near other people. Some people may want to wear a mask to help avoid coughing, sneezing, or spitting on other people accidentally. They might also want to stay a few feet away from strangers to protect them.
 
 Once you get sick, you can't get sick again for a long time. Eventually you might be able to get sick again, but it will not be very bad. When enough people have gotten sick and then gotten better, the sickness can't spread any more.
-
-
-## Debunking the unproven assumption that "the lockdown worked"
-
-Care must be taken to distinguish between the various measures enacted:
-
-- Recommending a minimum 6 foot distance between social groups
-- Recommending widespread use of cloth facial coverings to attempt to curtail spread of respiratory droplets
-- Closure of schools across the nation, from pre-schools up to universities.
-- Forced shutdown of businesses across the country
-
