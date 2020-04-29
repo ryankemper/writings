@@ -50,7 +50,7 @@ In order to talk about how infectious and how deadly COVID-19 is, there's three 
 
 There's one last concept to cover: testing. Currently there's two broad categories of tests:
 
-(1) PCR tests, which tells us whether someone actively has an infection of SARS-CoV-2 viral material
+(1) PCR tests, which tells us whether someone actively has an infection of SARS-CoV-2 viral material. Note there is a "sweet spot" in the course of infection where positive results are most likely; testing too early or too late bears increasing risk of false negatives or false positives.
 
 (2) _Serological_ (antibody) tests, which tell us whether someone has active circulating antibodies that respond to SARS-COV-2, which implies that they were previously infected (or perhaps are at the tail end of a current infection). These tests are critical for estimating the _prevalence_ of COVID-19 in the population.
 
