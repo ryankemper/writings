@@ -199,7 +199,7 @@ The usage of overly simplistic thought-terminating phrases, such as "flatten the
 
 ## Section 6: TL;DR - Simple Words Only
 
-COVID-19 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
+SARS-CoV-2 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
 
 Our leaders have tried to stop people from getting sick by closing down schools and businesses. But schools and businesses are important, and in the long run they help people stay alive. Most of us don't get very sick, so we should focus on protecting the ones that do get very very sick.
 
