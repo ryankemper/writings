@@ -129,13 +129,13 @@ Remember, **flattening the curve does not reduce deaths in the long-run**, excep
 To put it simply: **we previously had one very serious problem: COVID-19. Now we've enacted policy that has led to _two_ very serious problems: COVID-19 and an unprecedented economic destabilization.**
 
 ## Section 4: Pareto Mitigation: An evidence-based approach
-    - Encourage at-risk groups to self quarantine, and utilize testing to protect them
-        * All elderly, ESPECIALLY NURSING HOMES (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
-        * Those with obesity and COPD
-    - All others are ALLOWED to work and transact freely.
-        * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion
-        * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run
-    - We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly)
+- Encourage at-risk groups to self quarantine, and utilize testing to protect them
+    * All elderly, ESPECIALLY NURSING HOMES (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
+    * Those with obesity and COPD
+- All others are ALLOWED to work and transact freely.
+    * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion
+    * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run
+- We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly)
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition
 
