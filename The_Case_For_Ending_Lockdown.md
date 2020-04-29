@@ -84,7 +84,7 @@ Shifting to CFR, we have an [excellent study of italian healthcare workers](http
 |70-79|12.63%|
 |Total|0.35%|
 
-Why are these Italian numbers so much lower than CFRs reported elsewhere? Presumbably because the majority of these healthcare workers were tested, whereas CFR figures from other sources are missing anywhere from 2-100 cases for every case that's been discovered, leading to wildly inflated purported fatality rates.
+Why are these Italian numbers so much lower than CFRs reported elsewhere? Presumbably because the majority of these healthcare workers were tested, whereas CFR figures from other sources are missing anywhere from 2-100 cases for every case that's been discovered, leading to wildly inflated fatality rate calculations.
 
 In short, we see that the general IFR is almost certainly somewhere between .1-.7% (very wide range given to account for uncertainty). If we account for those under 18 years of age who in general are not covered by these surveys, we can use the fact that [US census data for 2019](https://www.census.gov/quickfacts/fact/table/US/PST045219) indicates that 22.4% of the population is below 18 years old to predict that our "true IFR" across the whole population is likely 20% less than the above figures show. We might also expect that widespread obesity and other risk factors in the US might make our fatality rates somewhat worse than other countries. Taking the above into holistic consideration, we believe that it is raesonable to surmise that if the entire population becomes infected, we would see an IFR of around .30%.
 
