@@ -158,12 +158,12 @@ Finally, we should mention that the effects of the lockdown are to magnify inequ
 
 ## Section 4: Pareto Mitigation: An evidence-based approach
 - Encourage at-risk groups to self quarantine, and utilize testing to protect them
-    * All elderly, ESPECIALLY NURSING HOMES (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
+    * All elderly, _especially nursing homes_ (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
     * Those with obesity and COPD
-- All others are ALLOWED to work and transact freely.
-    * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion
-    * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run
-- We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly)
+- All others are _allowed_ to work and transact freely.
+    * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion.
+    * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run.
+- We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly). Self-exposure has the additional benefit of allowing administration of a _controlled dose_ of SARS-CoV-2. Initial viral load is speculated to affect the final outcome, although we are unaware of research proving or disproving this one way or the other.
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era
 
