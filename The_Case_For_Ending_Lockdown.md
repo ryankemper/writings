@@ -14,7 +14,7 @@ A novel coronavirus, now dubbed SARS-CoV-2, emerged in late 2019 in China from a
 
 Evidence shows that the virus is rapidly transmissible between humans. The primary source of transmission is believed to be via infected _respiratory droplets_. When the viral particles within these droplets eventually make their ways to mucous membranes, such as the eyes, nose, mouth, or sexual organs, exposure occurs and infection may result.
 
-The condition that results is known as COVID-19, and bears the characteristic marks of acute respiratory illness. A sizeable portion of those infected are either asymptomatic (no symptoms), or paucisymptomatic (few symptoms)
+The condition that results is known as COVID-19, and bears the characteristic marks of acute respiratory illness. A sizeable portion of those infected are either asymptomatic (no symptoms), or paucisymptomatic (few symptoms), whereas some go on to develop increasingly severe symptoms that in extreme cases culminate in the need for invasive ventilation, at which point deaths is very difficult to avoid (for those interested, we recommend starting by reading [Vo](https://www.medrxiv.org/content/10.1101/2020.04.17.20053157v1.full.pdf)).
 
 In response, countries around the world have taken a series of unprecedented actions. For our purposes, we are going to focus on the path taken by the United States.
 
