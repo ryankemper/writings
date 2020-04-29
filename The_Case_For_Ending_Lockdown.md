@@ -43,19 +43,22 @@ So, we've covered the basics of viruses and the immune system at the "individual
 In order to talk about how infectious and how deadly COVID-19 is, there's three important epidemiological concepts that need to be understood:
 
    (1) [Basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number): Also called "R Nought", this number intuitively represents how many other people the average infected person goes on to infect. This number needs to be at or below 1 in order to contain a disease. We classify how easily a disease spreads by its reproduction number, but note that there is not one "real" reproduction number. It's a function of environmental conditions, social interaction, government policies, etc.
+
    (2) [Case fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate) The proportion of _detected cases_ that result in death. This number will be higher than the "infection fatality rate" (the true "death rate") if there are undetected cases (as there are with COVID-19).
+
    (3) [Infection fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate#Terminology) The "true" death rate of an illness: in essence, it answers the question "what percentage of all people who get this thing are going to die?" We'll be talking a lot about the IFR of COVID-19 in the following section.
 
 There's one last concept to cover: testing. Currently there's two broad categories of tests:
 
 (1) PCR tests, which tells us whether someone actively has an infection of SARS-CoV-2 viral material
+
 (2) _Serological_ (antibody) tests, which tell us whether someone has active circulating antibodies that respond to SARS-COV-2, which implies that they were previously infected (or perhaps are at the tail end of a current infection). These tests are critical for estimating the _prevalence_ of COVID-19 in the population.
 
 Now that we've hopefully got these fundamental concepts down, it's time to talk about COVID-19 specifically.
 
 ## Section 2: How serious is COVID-19?
 
-Initial reports showed that COVID-19 had a CFR of around 4-5% and a shocking 20% hospitaliation ratio. Fortunately, these initial reports don't tell the full story. We have since discovered via serological testing that the number of reported cases of covid massively understates the true prevalence of infection, and therefore that the true infection fatality rate is far lower than we might have assumed.
+Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20% hospitaliation ratio. Fortunately, these initial reports don't tell the full story. We have since discovered via serological testing that the number of reported cases of COVID-19 massively understates the true prevalence of infection, and therefore that the true infection fatality rate is far lower than we might have assumed.
 
 [One dutch antibody study](https://esb.nu/blog/20059695/we-kunnen-nu-gaan-rekenen-aan-corona) (not in English, unfortunately) gives us the following age-stratified hospitalization and mortality figures: https://old.reddit.com/r/COVID19/comments/g4tqvk/dutch_antibody_study_of_blood_donors_reveals_3/fnzkn4k/
 
