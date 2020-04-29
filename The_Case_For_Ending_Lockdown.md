@@ -165,7 +165,7 @@ The usage of overly simplistic thought-terminating phrases, such as "flatten the
 
 COVID-19 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
 
-Our leaders have tried to stop people from getting sick by closing down schools and businesses. But schools and businesses are important, and in the long run they help people stay alive. Most of us don't get sick, so we should focus on protecting the ones that do get very very sick.
+Our leaders have tried to stop people from getting sick by closing down schools and businesses. But schools and businesses are important, and in the long run they help people stay alive. Most of us don't get very sick, so we should focus on protecting the ones that do get very very sick.
 
 We might get sick when "saliva" (spit) from other people gets onto us. We can reduce the chance of getting sick by washing our hands and not touching our face, and we can avoid making others sick by doing our best to avoid coughing or sneezing near other people. Some people may want to wear a mask to help avoid coughing, sneezing, or spitting on other people accidentally. They might also want to stay a few feet away from strangers to protect them.
 
