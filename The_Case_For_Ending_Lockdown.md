@@ -1,12 +1,16 @@
 # The case for ending the "lockdown"
 
-The following lays out what we now know about the Coronavirus epidemic, and upon review of the evidence concludes that **the unprecedented policy of "lockdown" is likely to result in far more morality than the best alternative**. In short, this is because the lockdown harms the entire country, whereas death and serious complications due to Covid-19, while incredibly tragic, effects an extremely limited subset of the population when compared to the effects of the lockdown itself.
+The following lays out what we now know about the Coronavirus epidemic, and upon review of the evidence concludes that **the unprecedented policy of "lockdown" is likely to result in far more morality than the best alternative**. In short, this is because the lockdown harms the entire country, whereas death and serious complications due to COVID-19, while incredibly tragic, effects an extremely limited subset of the population when compared to the effects of the lockdown itself.
+
+Furthermore, it seems likely, although it cannot be said for sure, that beyond increasing mortality from non-COVID-19 sources, that the policy of lockdown as well as the general culture of widespread fear may lead to us experiencing more COVID-19 deaths than we otherwise would have. We'll dig into those details further on in this article, but for now it sohuld be noted that the effects of social isolation, joblessness, and limited exposure to the outside world, are known to be heavily correlated with increased mortality through a number of independent mechanisms of action.
+
+Care has been taken to be thorough while trying to limit the raw length of this writeup. As expected with a public health challenge this unique and unprecedented, it takes a lot of words to do the subject justice. For those short on time or who have difficulty understanding highly technical language, you are advised to skip to Section $TODO, "TLDR", which explains the important parts in simple language.
 
 ## Quick Review
 
 A novel coronavirus, now dubbed SARS-CoV-2, emerged in late 2019 in China from a zoonotic source, and very quickly spread to the rest of the world, rapidly becoming the most serious pandemic in over a century.
 
-Evidence shows that the virus is rapidly transmissible between humans. The primary source of transmission is believed to via infected respiratory droplets. When the viral particles within these droplets eventually make their ways to mucous membranes, such as the eyes, nose, mouth, or sexual organs, exposure occurs and infection may result.
+Evidence shows that the virus is rapidly transmissible between humans. The primary source of transmission is believed to be via infected _respiratory droplets_. When the viral particles within these droplets eventually make their ways to mucous membranes, such as the eyes, nose, mouth, or sexual organs, exposure occurs and infection may result.
 
 The condition that results is known as Covid-19, and bears the characteristic marks of .
 
