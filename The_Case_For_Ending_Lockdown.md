@@ -44,9 +44,9 @@ In order to talk about how infectious and how deadly COVID-19 is, there's three 
 
    (1) [Basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number): Also called "R Nought", this number intuitively represents how many other people the average infected person goes on to infect. This number needs to be at or below 1 in order to contain a disease. We classify how easily a disease spreads by its reproduction number, but note that there is not one "real" reproduction number. It's a function of environmental conditions, social interaction, government policies, etc.
 
-   (2) [Case fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate) The proportion of _detected cases_ that result in death. This number will be higher than the "infection fatality rate" (the true "death rate") if there are undetected cases (as there are with COVID-19).
+   (2) [Case fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate): The proportion of _detected cases_ that result in death. This number will be higher than the "infection fatality rate" (the true "death rate") if there are undetected cases (as there are with COVID-19).
 
-   (3) [Infection fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate#Terminology) The "true" death rate of an illness: in essence, it answers the question "what percentage of all people who get this thing are going to die?" We'll be talking a lot about the IFR of COVID-19 in the following section.
+   (3) [Infection fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate#Terminology): The "true" death rate of an illness: in essence, it answers the question "what percentage of all people who get this thing are going to die?" We'll be talking a lot about the IFR of COVID-19 in the following section.
 
 There's one last concept to cover: testing. Currently there's two broad categories of tests:
 
