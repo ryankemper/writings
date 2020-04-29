@@ -1,12 +1,12 @@
 # The case for ending the "lockdown"
 
-The following lays out what we now know about the Coronavirus epidemic, and upon review of the evidence concludes that **the unprecedented policy of "lockdown" is likely to result in far more morality than the best alternative**. In short, this is because the lockdown harms the entire country, whereas death and serious complications due to COVID-19, while incredibly tragic, effects an extremely limited subset of the population when compared to the effects of the lockdown itself.
+The following lays out what we now know about the Coronavirus epidemic, and upon review of the evidence concludes that **the unprecedented policy of "lockdown" is likely to result in far more mortality than the best alternative**. In short, this is because the lockdown harms the entire country, whereas death and serious complications due to COVID-19, while incredibly tragic, effects an extremely limited subset of the population when compared to the effects of the lockdown itself.
 
 Furthermore, it seems likely, although it cannot be said for sure, that beyond increasing mortality from non-COVID-19 sources, that the policy of lockdown as well as the general culture of widespread fear may lead to us experiencing more COVID-19 deaths than we otherwise would have suffered. We'll dig into those details further on in this article, but for now it should be noted that the effects of social isolation, joblessness, and limited exposure to the outside world, are known to be heavily correlated with increased mortality through a number of independent mechanisms of action.
 
-We characterize the root of United States policy towards the pandemic to be based upon the idea of "Containment", despite leaders like Anthony Fauci having stated that containment is no longer an option ($TODO: link to video of his quote). That is to say, our leaders have been saying one thing, but our actual actions appear to say the opposite. In contrary to our current policy, we advocate for a policy of what we are calling "Pareto Mitigation" (see https://en.wikipedia.org/wiki/Pareto_principle): a policy wherein the most vulnerable among us (primarily the elderly) are encouraged to self-isolate ("shelter in place"), while the majority of society is no longer prohibited from working and transacting more or less "as normal", with the exception of large gatherings and a policy of encouragement of _voluntary_ usage of masks and physical distancing.
+We characterize the root of United States policy towards the pandemic to be based upon the idea of "Containment", which attempts to reduce transmission to such an extent that the virus fades away without having achieved population-level immunity. In contrary to our current policy, we advocate for a policy of what we are calling "Pareto Mitigation" (see https://en.wikipedia.org/wiki/Pareto_principle): a policy wherein the most vulnerable among us (primarily the elderly) are encouraged to self-isolate ("shelter in place"), while the majority of society is no longer prohibited from working and transacting more or less "as normal", with the exception of large gatherings and a policy of encouragement of _voluntary_ usage of masks and physical distancing. This policy will allow us to mitigate deaths where they are likely to occur, while minimizing mortality that would be directly introduced by lockdown-based containment measures.
 
-Care has been taken to be thorough while limiting the raw length of this writeup. As expected with a public health challenge this unique and unprecedented, it takes a lot of words to do the subject justice. For those short on time or who have difficulty understanding technical language, you are advised to skip to Section $TODO, "TLDR", which explains the important parts in simple language.
+Care has been taken to be thorough while limiting the raw length of this writeup. As expected with a public health challenge this unique and unprecedented, it takes a lot of words to do the subject justice. For those short on time or who have difficulty understanding technical language, you are advised to skip to "Section 6: TL;DR - Simple Words Only", which explains the important parts in simple language that even children can understand.
 
 ## Quick Review
 
@@ -128,6 +128,8 @@ A much more accurate position is that **economic damage leads to lives lost**. T
         * Those with obesity and COPD
     - All others are ALLOWED to work and transact freely.
         * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion
+        * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run
+    - We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly)
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition
 * Unconstitutional and arguably unethical lockdown policies
@@ -144,7 +146,7 @@ A much more accurate position is that **economic damage leads to lives lost**. T
 
     "Flatten the curve" started out as a reasonable proposal, indeed one we personally supported, and then morphed into essentially a thought-terminating cliche
 
-## TL;DR - Simple Words Only
+## Section 6: TL;DR - Simple Words Only
 
 COVID-19 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
 
