@@ -92,7 +92,7 @@ Much more interesting than the absolute fatality rate is the age-based risk dist
 
 Comparisons have been made, both affirmatively and negatively, towards Influenza. So let's briefly talk about how Influenza is different from Covid, and in what ways it's similar.
 
-Influenza is characterized by a pattern of mortality in which the **very young** and the **very old** have an extremely high chance of death [see this graph](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-10-162/figures/2) [1], perhaps due to the "cytokine storm" which is a "scorched-earth"-style overreaction triggered by the immune system. In comparison, COVID-19 has a pattern of mortality where the **very old are extremely vulnerable**, whereas **COVID-19 is stunningly _not_ deadly in the very young**. A disease like COVID-19, which has such a "spiky" (highly variable) mortality rate based upon age and other comorbidities, is a _terrible_ candidate for a national lockdown, because **lockdown does not distinguish between those at risk and those who are not at risk**. This pattern of mortality is something we should be celebrating - **we have strong evidence that our children are safe**, and thus if anything in children it is rational to worry about Influenza, not COVID-19 - but unfortunately the wider population is not aware of this fact due to what we believe are misleading or outright false statements propagated by the media and, at times, even our trusted public health officials.
+Influenza is characterized by a pattern of mortality in which the **very young** and the **very old** have an extremely high chance of death [see this graph](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-10-162/figures/2), perhaps due to the "cytokine storm" which is a "scorched-earth"-style overreaction triggered by the immune system. In comparison, COVID-19 has a pattern of mortality where the **very old are extremely vulnerable**, whereas **COVID-19 is stunningly _not_ deadly in the very young**. A disease like COVID-19, which has such a "spiky" (highly variable) mortality rate based upon age and other comorbidities, is a _terrible_ candidate for a national lockdown, because **lockdown does not distinguish between those at risk and those who are not at risk**. This pattern of mortality is something we should be celebrating - **we have strong evidence that our children are safe**, and thus if anything in children it is rational to worry about Influenza, not COVID-19 - but unfortunately the wider population is not aware of this fact due to what we believe are misleading or outright false statements propagated by the media and, at times, even our trusted public health officials.
 
 In short, the [statement](https://www.youtube.com/watch?v=2DekzGCJhJw&feature=youtu.be&t=53) by Dr. Fauci that COVID-19 is likely an order of magnitude deadlier than the flu has not held up to scrutiny. (To his credit, he was fairly clear that he was estimating it based off the data at the time, which we certainly cannot fault him for). On the contrary, we can use the above figures, which we feel are fairly conservative (meaning erring on the side of over-estimating risk), to state that overall COVID-19 is perhaps 3x as deadly as Influenza in the general population, whereas in infnants and young children Influenza is likely at least 2 orders of magnitude _more_ deadly than COVID-19. **It is absolutely critical that we understand the age-stratified fatality rates of COVID-19 in order to craft effective and evidence-based public policy**
 
@@ -131,7 +131,8 @@ A much more accurate position is that **economic damage leads to lives lost**. T
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition
 * Unconstitutional and arguably unethical lockdown policies
-* Censorship of information that "contradicts" WHO (see Dr Erickson and Dr Masihi's message, which while containing statistical errors / imprecise language, (a) reflected their genuine beliefs, and (b) their overall conclusions and concepts espoused were absolutely correct IMO)
+* Censorship of information that "contradicts" WHO (see Dr Erickson and Dr Masihi's message, which while containing statistical errors / imprecise language, (a) reflected their genuine beliefs, and (b) their overall conclusions and concepts espoused were entirely valid)
+* Lies by omission: WHO claimed that "There is no evidence of long-term immunity to COVID-19" at a point where mounting evidence clearly indicates to the contrary.
 
 * Widespread superstition
     "Stay inside" (as opposed to "avoid activities that carry high risk of exposure to infected respiratory droplets")
@@ -143,7 +144,15 @@ A much more accurate position is that **economic damage leads to lives lost**. T
 
     "Flatten the curve" started out as a reasonable proposal, indeed one we personally supported, and then morphed into essentially a thought-terminating cliche
 
-## TL;DR - Elementary School Words Only
+## TL;DR - Simple Words Only
+
+COVID-19 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
+
+Our leaders have tried to stop people from getting sick by closing down schools and businesses. But schools and businesses are important, and in the long run they help people stay alive. Most of us don't get sick, so we should focus on protecting the ones that do get very very sick.
+
+We might get sick when "saliva" (spit) from other people gets onto us. We can reduce the chance of getting sick by washing our hands and not touching our face, and we can avoid making others sick by doing our best to avoid coughing or sneezing near other people. Some people may want to wear a mask to help avoid coughing, sneezing, or spitting on other people accidentally. They might also want to stay a few feet away from strangers to protect them.
+
+Once you get sick, you can't get sick again for a long time. Eventually you might be able to get sick again, but it will not be very bad. When enough people have gotten sick and then gotten better, the sickness can't spread any more.
 
 ## The victory of superstition over science (META: won't include this section so that we can stay laser-focused, but will leave this in the initial commit)
 
@@ -163,6 +172,3 @@ Care must be taken to distinguish between the various measures enacted:
 - Closure of schools across the nation, from pre-schools up to universities.
 - Forced shutdown of businesses across the country
 
-
-CITATIONS
-[1] https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-10-162#Fig1
