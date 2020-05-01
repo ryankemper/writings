@@ -22,7 +22,7 @@ The condition that results is known as COVID-19, and bears the characteristic ma
 
 In response, countries around the world have taken a series of unprecedented actions. For our purposes, we are going to focus on the path taken by the United States.
 
-Upon the recommendation of top public health officials, the United States enacted a serious of increasingly draconian measures, culminating in the forced shutdown of large swaths of the US economy that were deemed "non-essential".
+Upon the recommendation of top public health officials, the United States enacted a series of increasingly draconian measures, culminating in the forced shutdown of large swaths of the US economy that were deemed "non-essential".
 
 These policies vary depending on the exact state and county in question.
 
@@ -32,7 +32,7 @@ Weeks and months later, facts on the ground show that the purported collapse of 
 
 **One problem that we believe has not been adequately addressed by our leaders is the poor understanding of how infections spread, what a virus actually is, and how the immune system detects, fights off, and guards against future occurrences of previously-seen pathogens.** To that end, this article will be broken up into a series of sections. The first section, "The Basics", will cover the **absolute minimum that every citizen should know** about epidemiology and immunology. The second section, "How serious is COVID-19?", will cover emerging evidence regarding the transmission rate, lethality, and hospitalization rate of COVID-19. We'll see that current evidence strongly contradicts the models and figures upon which our public policy has purportedly been designed. The third section, "Lockdown-associated mortality and destabilization", will cover some of the theoretical and observed deleterious (negative) effects of the lockdown. The fourth section, "Pareto Mitigation: An evidence-based approach", covers a proposed alternative for a COVID-19 mitigation policy. The fifth section, "The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era", examines the attitudes and beliefs that have led to widely respected public health officials resorting to policies that do not stand up to evidence-based examination, and furthermore examines the ethics and constitutionality of those same policies.
 
-Finally, the intent of this article is to use the most precise language possible, while still remaining largely understandable to a citizen of average intelligence and education level. Indeed, we have truly succeeded if this article is understandable to those who (through no fault of their own) may have significantly _below_ average intelligence and/or educational attainment. **This crisis effects us all and thus we should write and speak in a way that is accessible to all**. To that end, the final section is a "TL;DR" which uses only those words that are understandable by an elementary-school aged child, and focuses on reviewing the absolute most important poins.
+Finally, the intent of this article is to use the most precise language possible, while still remaining largely understandable to a citizen of average intelligence and education level. Indeed, we have truly succeeded if this article is understandable to those who (through no fault of their own) may have significantly _below_ average intelligence and/or educational attainment. **This crisis effects us all and thus we should write and speak in a way that is accessible to all**. To that end, the final section is a "TL;DR" which uses only those words that are understandable by an elementary-school aged child, and focuses on reviewing the absolute most important points.
 
 ## Section 1: The Basics
 
@@ -52,7 +52,7 @@ In order to talk about how infectious and how deadly COVID-19 is, there's three 
 
    (3) [Infection fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate#Terminology): The "true" death rate of an illness: in essence, it answers the question "what percentage of all people who get this thing are going to die?" We'll be talking a lot about the IFR of COVID-19 in the following section.
 
-There's one last concept to cover: testing. Currently there's two broad categories of tests:
+There's one last concept to cover: testing. Currently there're two broad categories of tests:
 
 (1) PCR tests, which tells us whether someone actively has an infection of SARS-CoV-2 viral material. Note there is a "sweet spot" in the course of infection where positive results are most likely; testing too early or too late bears increasing risk of false negatives or false positives.
 
@@ -175,7 +175,7 @@ Finally, we should mention that the effects of the lockdown are to magnify inequ
 
 So, if a policy of Containment is truly such a bad idea, how did our public health officials, some of whom have decades of battle-tested experience, get it so wrong? [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is very relevant here; we think it is not reasonable to assume that they were _trying_ to usher in a techno-totalitarian state. Rather, they were trying to prevent mortality, but their incentive structure is such that it is much worse to have done nothing and later find out that the virus was worse than we thought, than what actually happened, which is to have undertaken actions that were self-destructive and then discovered that the virus was way less deadly than we thought.
 
-Additionally, an environment of incredible stress and sleeplessness is known to destroy cognitive functioning. In particular, it shifts the human brain from a cognitive style that can think strategically and proactively avoid problems, to one that experience tunnel vision and a rigidity in belief systems. That is to say, that [the conditions our well-intentioned officials](https://www.businessinsider.com/dr-anthony-fauci-daily-routine-coronavirus-pandemic-2020-4) have been operating under have put them, physiologically, in a state that makes it hard for any human to adequately process the torrent of incoming data and synthesize it into effective public policy.
+Additionally, an environment of incredible stress and sleeplessness is known to destroy cognitive functioning. In particular, it shifts the human brain from a cognitive style that can think strategically and proactively avoid problems, to one that experiences tunnel vision and a rigidity in belief systems. That is to say, that [the conditions our well-intentioned officials](https://www.businessinsider.com/dr-anthony-fauci-daily-routine-coronavirus-pandemic-2020-4) have been operating under have put them, physiologically, in a state that makes it hard for any human to adequately process the torrent of incoming data and synthesize it into effective public policy.
 
 ### Be wary of "hero culture"
 
