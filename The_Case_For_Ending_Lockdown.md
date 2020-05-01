@@ -216,3 +216,5 @@ Once you get sick, you can't get sick again for a long time. Eventually you migh
 This is a living document and we encourage contributions in the form of pull requests. If you want to help flesh out the cited research, or feel that an argument is fallacious or could be improved, you are encouraged to open up a pull request here: https://gitlab.com/ryankemper/writings/-/blob/master/The_Case_For_Ending_Lockdown.md
 
 We will only accept contributions that we feel show a holistic understanding of the situation and fit with the style and intentions of this document, but if we end up rejecting your proposed changes we highly encourage you to [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) and start your own branch.
+
+Finally, you, the reader, are free to use or redistribute this content for any purpose. We merely request that you link back to the original post if citing/quoting it, but you are free to choose _not_ to do so.
