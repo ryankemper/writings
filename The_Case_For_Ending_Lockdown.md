@@ -201,6 +201,8 @@ The usage of overly simplistic [thought-terminating phrases](https://en.wikipedi
 
 ## Section 6: TL;DR - Simple Words Only
 
+[Note: This section could be significantly improved. Check back in a couple days if interested, or track progress in [this issue](https://github.com/ryankemper/writings/issues/2)]
+
 SARS-CoV-2 is a virus that can make you sick. Some people don't feel sick at all, some people feel a little bit sick, and a very small group of people, especially old people, get very sick and might die.
 
 Our leaders have tried to stop people from getting sick by closing down schools and businesses. But schools and businesses are important, and in the long run they help people stay alive. Most of us don't get very sick, so we should focus on protecting the ones that do get very very sick.
@@ -211,7 +213,7 @@ Once you get sick, you can't get sick again for a long time. Eventually you migh
 
 ## (The End) Help us improve this review
 
-This is a living document and we encourage contributions in the form of pull requests. If you want to help flesh out the cited research, or feel that an argument is fallacious or could be improved, you are encouraged to open up a pull request here: https://gitlab.com/ryankemper/writings/-/blob/master/The_Case_For_Ending_Lockdown.md
+This is a living document and we encourage contributions in the form of pull requests or open issues. You can find the current list of open issues [here on Github](https://github.com/ryankemper/writings/issues). If you want to help flesh out the cited research, or feel that an argument is fallacious or could be improved, you are encouraged to open up a pull request [here](https://github.com/ryankemper/writings/pulls). You can also watch changes as they're made by checking the [commit history](https://github.com/ryankemper/writings/commits/master).
 
 We will only accept contributions that we feel show a holistic understanding of the situation and fit with the style and intentions of this document, but if we end up rejecting your proposed changes we highly encourage you to [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) and start your own branch.
 
