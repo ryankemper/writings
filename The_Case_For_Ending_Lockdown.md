@@ -209,7 +209,7 @@ Our leaders have tried to stop people from getting sick by closing down schools 
 
 We might get sick when "saliva" (spit) from other people gets onto us. We can reduce the chance of getting sick by washing our hands and not touching our face, and we can avoid making others sick by doing our best to avoid coughing or sneezing near other people. Some people may want to wear a mask to help avoid coughing, sneezing, or spitting on other people accidentally. They might also want to stay a few feet away from strangers to protect them.
 
-Once you get sick, you can't get sick again for a long time. Eventually you might be able to get sick again, but it will not be very bad. When enough people have gotten sick and then gotten better, the sickness can't spread any more.
+Once you get sick, you can't get sick again for a long time. Eventually you might be able to get sick again, but it will not be nearly as bad. When enough people have gotten sick and then gotten better, the sickness can't spread any more.
 
 ## (The End) Help us improve this review
 
