@@ -64,7 +64,7 @@ Now that we've hopefully got these fundamental concepts down, it's time to talk 
 
 Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20% hospitalization ratio. Fortunately, these initial reports don't tell the full story. We have since discovered via serological testing that the number of reported cases of COVID-19 massively understates the true prevalence of infection, and therefore that the true infection fatality rate is far lower than we might have assumed.
 
-[One dutch antibody study](https://esb.nu/blog/20059695/we-kunnen-nu-gaan-rekenen-aan-corona) (not in English, unfortunately) gives us the following table of age-stratified hospitalization and mortality figures (credit belongs to [reddit user protissniper0](https://old.reddit.com/user/protissniper0) for [this comment](https://old.reddit.com/r/COVID19/comments/g4tqvk/dutch_antibody_study_of_blood_donors_reveals_3/fnzkn4k/)):
+[One dutch antibody study](https://esb.nu/blog/20059695/we-kunnen-nu-gaan-rekenen-aan-corona) (not in English, unfortunately) gives us the following table of age-stratified hospitalization and mortality figures:
 
 |Age group|Hospitalization rate|Mortality rate (IFR)|
 |---|---|---|
