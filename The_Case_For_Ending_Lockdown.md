@@ -16,6 +16,14 @@ Care has been taken to be thorough while limiting the raw length of this writeup
 
 A novel coronavirus, now dubbed SARS-CoV-2, emerged in late 2019 in China from a zoonotic source, and very quickly spread to the rest of the world, rapidly becoming the most serious pandemic in over a century.
 
+The basic timeline as it pertains to the US is described in ["First Case of 2019 Novel Coronavirus in the United States"](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191):
+
+```
+Dec 31 - China reports cluster of pneumonia cases
+Jan 7  - China alerts health authorities that cluster is associated with SARS-CoV-2 (at the time it was called 2019-nCoV)
+Jan 20 - First reported US case (they had active symptoms for a few days prior)
+```
+
 Evidence shows that the virus is rapidly transmissible between humans. The primary source of transmission is believed to be via infected _respiratory droplets_. When the viral particles within these droplets eventually make their ways to mucous membranes, such as the eyes, nose, mouth, or sexual organs, exposure occurs and infection may result.
 
 The condition that results is known as COVID-19, and bears the characteristic marks of acute respiratory illness. A sizeable portion of those infected are either asymptomatic (no symptoms), or paucisymptomatic (few symptoms), whereas some go on to develop increasingly severe symptoms that in extreme cases culminate in the need for invasive ventilation, at which point death is very difficult to avoid (for those interested, we recommend starting by reading [Vo](https://www.medrxiv.org/content/10.1101/2020.04.17.20053157v1.full.pdf)).
