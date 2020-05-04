@@ -80,6 +80,34 @@ Now that we've hopefully got these fundamental concepts down, it's time to talk 
 
 ## Section 2: How serious is COVID-19?
 
+### Lessons from Vo'
+
+One of the seminal papers in the field is ["Suppression of COVID-19 outbreak in the municipality of Vo', Italy"](https://www.medrxiv.org/content/10.1101/2020.04.17.20053157v1.full.pdf) which "provides new insights into its [SARS-CoV-2] transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures".
+
+The Venetian region of Vo' employed a highly aggressive lockdown between 23 Feb 2020 and 8 March 2020. They enforced "the closure of *all* public services and commercial activities and imposed a ban on population movement". During this time the study authors conducted nasopharyngeal swabs two weeks apart, testing the _entire population_ twice. We're going to pull out just a few key insights here that will help us understand how SARS-CoV-2 spreads in communities and the progression of the associated disease COVID-19.
+
+- "No infections were detected in either survey in 234 tested children ranging from 0 to 10 years, despite some of them living in the same household as infected people."
+- "Older individuals showed a three-fold increase in the prevalence of infection"
+- "The time to viral clearance (time from the earliest positive sample for the subjects with more than one sample in the first survey and a negative sample in the second survey) ranged from 8 to 13 days and was on average 9.3 days, with standard deviation 2.0 days."
+- "These results suggest that asymptomatic infections may play a key role in the transmission of SARS-CoV-2. We also found evidence that transmission can occur before the onset of symptoms."
+- "We estimated that on average **41-42% of the infections are asymptomatic** and that the **lockdown reduced SARS-CoV-2 transmissibility**, on average by 89-99%, depending on the assumed initial value of $R_0^1$ and on the duration of virus detectability"
+- Effective reproduction number was **3.0** (95% CI 2.5-3.5) at the beginning of the study which declined to **0.14** (95% CI 0.0-0.29) by the end of the lockdown.
+
+In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a significant role, with their estimate being about half of cases being asymptomatic. This study provides evidence that extremely radical lockdown measures are effective in reducing spread. We'll examine this in more detail later when we characterize the policy of Containment and contrast it with our proposal of Pareto Mitigation. For now, we'll just say that the high proportion of asymptomatic transfer implies that one either needs to practice total containment (radical lockdown) or allow SARS-CoV-2 to pass through the population, whereas taking "half-measures" seems highly inadvisible.
+
+### Transmissibility
+
+Evidence shows that SARS-CoV-2 is quite efficiently transmitted between humans. Furthermore asymptomatic and pre-symptomatic spread occur extensively. This is shown by the above "Lessons from Vo'", and is further bolstered by the following study:
+
+["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) provides us the following insights:
+    * "Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility"
+    * "viable SARS-CoV-2 was isolated from specimens of asymptomatic and presymptomatic residents. Evidence of transmission from presymptomatic persons has been shown in epidemiologic investigations of SARS-CoV-2."
+    * "The data presented here suggest that sole reliance on symptom-based strategies may not be effective to prevent introduction of SARS-CoV-2 and further transmission in skilled nursing facilities."
+
+Finally, estimates of the basic reproduction number vary between studies, but Vo's estimate of 3.0 seems like a decent figure to work off of.
+
+### Hospitalization and fatality rates
+
 Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20% hospitalization ratio. Fortunately, these initial reports don't tell the full story. We have since discovered via serological testing that the number of reported cases of COVID-19 massively understates the true prevalence of infection, and therefore that the true infection fatality rate is far lower than we might have assumed.
 
 [One dutch antibody study](https://esb.nu/blog/20059695/we-kunnen-nu-gaan-rekenen-aan-corona) (not in English, unfortunately) gives us the following table of age-stratified hospitalization and mortality figures:
