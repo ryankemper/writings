@@ -4,6 +4,8 @@
 
 [**DISCLAIMER:** The original author is a layperson without medical/scientific credentials and this post represents a best-effort attempt to synthesize relevant research and unpack the policy implications of the "lockdown" approach as compared with the proposed alternative.]
 
+[**Note:** See the very last section, **"(The End) Help us improve this review"**, for how you can contribute. [Here's where you can submit suggestions or identify issues](https://github.com/ryankemper/writings/issues).]
+
 The following lays out what we now know about the Coronavirus epidemic, and upon review of the evidence concludes that **the unprecedented policy of "lockdown" runs the risk of resulting in far more mortality than the best alternative**. In short, this is because the lockdown harms the entire country, whereas death and serious complications due to COVID-19, while incredibly tragic, affects an extremely limited subset of the population when compared to the effects of the lockdown itself.
 
 Furthermore, it seems likely, although it cannot be said for sure, that beyond increasing mortality from non-COVID-19 sources, that the policy of lockdown as well as the general culture of widespread fear may lead to us experiencing more COVID-19 deaths than we otherwise would have suffered. We'll dig into those details further on in this article, but for now it should be noted that the effects of social isolation, joblessness, and limited exposure to the outside world, are known to be heavily correlated with increased mortality through a number of independent mechanisms of action.
