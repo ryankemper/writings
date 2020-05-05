@@ -208,9 +208,9 @@ Finally, we should mention that the effects of the lockdown are to magnify inequ
 
 Vo' showed us that successful containment requires placing incredible constraints on freedom of movement and assembly. By placing a near-total ban on "population movement", the effective reproduction number was decreased from **3.0** to **0.14**. With a decrease in reproduction that dramatic, a policy of containment becomes feasible. Techniques like "contact tracing" which are almost surely unworkable at scale, regardless of technological advances (see security researcher [Schneier on contact tracing](https://www.schneier.com/blog/archives/2020/05/me_on_covad-19_.html)), become possible when the true number of current infected drops to extremely low levels.
 
-As long as containment is successfully in effect, deaths due to covid-19 in the short-medium term can be indefinitely postponed.
+As long as containment is successfully in effect, deaths due to COVID-19 in the short-medium term can be indefinitely postponed.
 
-Because lifting containment in any serious way would allow the infection rate to surge, containment must be continually maintained until an artificial way to avoid COVID-19 mortality is developed. While there are countless efforts underway to develop a vaccine, the length of time developing a vaccine will require is highly uncertain. We don't have enough information to put an upper bound on time to develop a vaccine or an incredibly effective treatment, so the ultimate cost of maintaining such severe restrictions to personal freedoms and general wellbeing are similarly unbounded. Containment as practiced in Vo' carries a cost to the wellbeing of the population, and as such its cost increases roughly in proportion to how long it must be practiced for.
+**Because lifting containment in any serious way would allow the infection rate to surge, containment must be continually maintained until an artificial way to avoid COVID-19 mortality is developed.** While there are countless efforts underway to develop a vaccine, the length of time developing a vaccine will require is highly uncertain. We don't have enough information to put an upper bound on time to develop a vaccine or an incredibly effective treatment, so the ultimate cost of maintaining such severe restrictions to personal freedoms and general wellbeing are similarly unbounded. Containment as practiced in Vo' carries a cost to the wellbeing of the population, and as such its cost increases roughly in proportion to how long it must be practiced for.
 
 #### Dispelling the "Eradication Myth"
 
@@ -261,7 +261,9 @@ Thus this potential downside of short and medium term COVID-19 mortality is coun
 
 Before we look at how we answer this question, we should note that evidence points that "half-measures" - for example, what we've done in the US thus far - do not really accomplish anything. That's why we're presenting two possible paths and not three; we believe that a "middle road" solution carries all the risk of COVID-19-associated mortality that Pareto Mitigation risks, while also incurring the majorty of the lockdown-associated mortality and systemic destabilization that we have examined.
 
-Now, in order to make a rational decision, first we have to know what our values are.
+Additionally, we should note that, partly due to length and time constraints, we have not covered the "pulsed" approach of intermittent lockdown. However, our position is that such an approach carries the same fundamental flaw of representing a "half-measure": the potential for widespread economic closures in the future, even if in the present the lockdown has been temporarily lifted, represents an undue pressure on businesses and the economy at large and thus runs the same risk of experiencing "most of the negatives and few of the benefits".
+
+Now, let's proceed. In order to make a rational decision, first we have to know what our values are.
 
 **Is it worth it to decrease the wellbeing of an entire society in order to prevent as much medium-term COVID-19 death as we possibly can?** Would we be more horrified living in a free society with 2.2 million of our loved ones dead, than we would be in a society in which COVID-19 death was much lower, at the expense of potentially years of not being allowed to go outside without permission, having government-controlled drones barking warnings about the dangerous of violating the lockdown, and destroying a huge portion of our population's livelihoods?
 
