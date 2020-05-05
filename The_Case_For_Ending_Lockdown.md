@@ -80,6 +80,12 @@ Now that we've hopefully got these fundamental concepts down, it's time to talk 
 
 ## Section 2: How serious is COVID-19?
 
+We'll start by diving right into the case and infection fatality rates.
+
+After that, we'll take a look at an important paper and use it to examine the transmission dynamics of SARS-CoV-2 at the population level.
+
+### Hospitalization and fatality rates
+
 Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20% hospitalization ratio. Fortunately, these initial reports don't tell the full story. We have since discovered via serological testing that the number of reported cases of COVID-19 massively understates the true prevalence of infection, and therefore that the true infection fatality rate is far lower than we might have assumed.
 
 [One dutch antibody study](https://esb.nu/blog/20059695/we-kunnen-nu-gaan-rekenen-aan-corona) (not in English, unfortunately) gives us the following table of age-stratified hospitalization and mortality figures:
@@ -94,7 +100,7 @@ Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20
 
 A recent [danish antibody study](https://www.medrxiv.org/content/10.1101/2020.04.24.20075291v1) concluded the following: "combined IFR in patients younger than 70 is estimated at 82 per 100,000", or **.082%**.
 
-Shifting to CFR, we have an [excellent study of italian healthcare workers](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf) which gives us the following figures (credit belongs to [reddit user PM_YOUR_WALLPAPER](https://old.reddit.com/user/PM_YOUR_WALLPAPER) for [this comment](https://old.reddit.com/r/COVID19/comments/g6nmtf/update_on_italian_progression_of_covid19/foatvgv/)):
+Shifting to CFR, we have an [excellent study of italian healthcare workers](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf) which gives us the following figures (credit belongs to [reddit user PM_YOUR_WALLPAPER for this comment](https://old.reddit.com/r/COVID19/comments/g6nmtf/update_on_italian_progression_of_covid19/foatvgv/)):
 
 |Age group|Mortality Rate (CFR)|
 |---|---|
@@ -120,7 +126,31 @@ Influenza is characterized by a pattern of mortality in which the **very young**
 
 In short, the [statement](https://www.youtube.com/watch?v=2DekzGCJhJw&feature=youtu.be&t=53) by Dr. Fauci that COVID-19 is likely an order of magnitude deadlier than the flu has not held up to scrutiny. (To his credit, he was fairly clear that he was estimating it based off the data at the time, which we certainly cannot fault him for). On the contrary, we can use the above figures, which we feel are fairly conservative (meaning erring on the side of over-estimating risk), to state that overall COVID-19 is perhaps 3x as deadly as Influenza in the general population, whereas in infants and young children Influenza is likely at least 2 orders of magnitude _more_ deadly than COVID-19. **It is absolutely critical that we understand the age-stratified fatality rates of COVID-19 in order to craft effective and evidence-based public policy**.
 
+### Lessons from Vo'
 
+One of the seminal papers in the field is ["Suppression of COVID-19 outbreak in the municipality of Vo', Italy"](https://www.medrxiv.org/content/10.1101/2020.04.17.20053157v1.full.pdf) which "provides new insights into its [SARS-CoV-2] transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures".
+
+The Venetian region of Vo' employed a highly aggressive lockdown between 23 Feb 2020 and 8 March 2020. They enforced "the closure of *all* public services and commercial activities and imposed a ban on population movement". During this time the study authors conducted nasopharyngeal swabs two weeks apart, testing the _entire population_ twice. We're going to pull out just a few key insights here that will help us understand how SARS-CoV-2 spreads in communities and the progression of the associated disease COVID-19.
+
+- "No infections were detected in either survey in 234 tested children ranging from 0 to 10 years, despite some of them living in the same household as infected people."
+- "Older individuals showed a three-fold increase in the prevalence of infection"
+- "The time to viral clearance (time from the earliest positive sample for the subjects with more than one sample in the first survey and a negative sample in the second survey) ranged from 8 to 13 days and was on average 9.3 days, with standard deviation 2.0 days."
+- "These results suggest that asymptomatic infections may play a key role in the transmission of SARS-CoV-2. We also found evidence that transmission can occur before the onset of symptoms."
+- "We estimated that on average **41-42% of the infections are asymptomatic** and that the **lockdown reduced SARS-CoV-2 transmissibility**, on average by 89-99%, depending on the assumed initial value of R_0^1 and on the duration of virus detectability"
+- Effective reproduction number was **3.0** (95% CI 2.5-3.5) at the beginning of the study which declined to **0.14** (95% CI 0.0-0.29) by the end of the lockdown.
+
+In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a significant role, with their estimate being about half of cases being asymptomatic. This study provides evidence that extremely radical lockdown measures are effective in reducing spread. We'll examine this in more detail later when we characterize the policy of Containment and contrast it with our proposal of Pareto Mitigation. For now, we'll just say that the high proportion of asymptomatic transfer implies that one either needs to practice total containment (radical lockdown) or allow SARS-CoV-2 to pass through the population, whereas taking "half-measures" seems highly inadvisible.
+
+### Transmissibility
+
+Evidence shows that SARS-CoV-2 is quite efficiently transmitted between humans. Furthermore asymptomatic and pre-symptomatic spread occur extensively. This is shown by the above "Lessons from Vo'", and is further bolstered by the following study:
+
+["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) provides us the following insights:
+* "Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility"
+* "viable SARS-CoV-2 was isolated from specimens of asymptomatic and presymptomatic residents. Evidence of transmission from presymptomatic persons has been shown in epidemiologic investigations of SARS-CoV-2."
+* "The data presented here suggest that sole reliance on symptom-based strategies may not be effective to prevent introduction of SARS-CoV-2 and further transmission in skilled nursing facilities."
+
+Finally, estimates of the basic reproduction number vary between studies, but Vo's estimate of 3.0 seems like a decent figure to work off of.
 
 ## Section 3: Lockdown-associated Mortality and Destabilization
 
@@ -174,14 +204,78 @@ To put it simply: **we previously had one very serious problem: COVID-19. Now we
 
 Finally, we should mention that the effects of the lockdown are to magnify inequality across virtually every dimension. Lower-income students, many who do not own a personal laptop, are disadvantaged in a "distance-learning" model. Those who have lost their jobs tend to be those workers who are in a lower socio-economic bracket and have jobs that do not allow one to "work from home". This has created a further divide where high-paying professions such as Software Engineers have managed to escape largely unscathed, while many lower-paid Americans who were _already_ living paycheck-to-paycheck are now forbidden from working and forced to rely on incompetent government programs for assistance. Those who are single and live alone have now had most viable avenues of social interaction cut off from them.
 
-## Section 4: Pareto Mitigation: An evidence-based approach
+## Section 4: Two Possible Paths
+
+### Containment
+
+Vo' showed us that successful containment requires placing incredible constraints on freedom of movement and assembly. By placing a near-total ban on "population movement", the effective reproduction number was decreased from **3.0** to **0.14**. With a decrease in reproduction that dramatic, a policy of containment becomes feasible. Techniques like "contact tracing" which are almost surely unworkable at scale, regardless of technological advances (see security researcher [Schneier on contact tracing](https://www.schneier.com/blog/archives/2020/05/me_on_covad-19_.html)), become possible when the true number of current infected drops to extremely low levels.
+
+As long as containment is successfully in effect, deaths due to COVID-19 in the short-medium term can be indefinitely postponed.
+
+**Because lifting containment in any serious way would allow the infection rate to surge, containment must be continually maintained until an artificial way to avoid COVID-19 mortality is developed.** While there are countless efforts underway to develop a vaccine, the length of time developing a vaccine will require is highly uncertain. We don't have enough information to put an upper bound on time to develop a vaccine or an incredibly effective treatment, so the ultimate cost of maintaining such severe restrictions to personal freedoms and general wellbeing are similarly unbounded. Containment as practiced in Vo' carries a cost to the wellbeing of the population, and as such its cost increases roughly in proportion to how long it must be practiced for.
+
+#### Dispelling the "Eradication Myth"
+
+As far as we know, no serious (scientific) proponent of Containment has advocated for Eradication (suppressing COVID-19 so severely that it literally "dies out" and is no longer present in the global population).
+
+However, we have observed that it is an unfortunately common misconception among everyday citizens who are in favor of a "lockdown"-style policy, that the ultimate goal of our policy of Containment is to eradicate COVID-19 from the face of the earth.
+
+This notion is not considered remotely plausible by serious experts for a few reasons.
+
+First, COVID-19 is a very highly infectious respiratory disease. Thus far it _appears_ to spread even more easily and efficiently than Influenza (see [this meta-analysis of Influenza's reproduction rate](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-480)), which is already itself a highly infectious respiratory disease. Despite this, many fall prey to a seductive-sounding notion that goes something like this: "why can't we all agree to not interact with society for a length of time larger than COVID-19's maximum incubation period? Wouldn't it then die out?". Now, we must understand that even under totalitarian regimes, coordinating such an effort across an entire population, let alone the entire planet, is impossible even with our modern surveillance and suppression techniques.
+
+But to truly show how ridiculous this notion is, let's assume that we truly _could_ coordinate our efforts across _the entire globe_ such that _no infection occurs anywhere on Earth for the next 4 weeks_. Then what? Well, we immediately hit the second snag - the existence of animal resorvoirs. As we covered in our initial timeline of SARS-CoV-2 and its associated disease COVID-19, SARS-CoV-2 emerged from a natural animal source. Thus, even if we eradicate COVID-19 from every human host on Earth, there will always be animal reservoirs of this pathogen that are capable of "jumping" to humans. Again, SARS-CoV-2 began via a zoonotic (animal) route, and thus given the opportunity it will happen again.
+
+Those interested in learning about eradication at a high level might want to start with Wikipedia's [Eradication of infectious diseases](https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases). The article makes it clear that "**The targeted organism [SARS-CoV-2 in this case] must not have a non-human reservoir** (or, in the case of animal diseases, the infection reservoir must be an easily identifiable species, as in the case of rinderpest), and/or amplify in the environment." Additionally, it shows that we have only ever successfully eradicated two diseases: smallpox and rinderpest.
+
+### Pareto Mitigation
+
+We've examined the policy of containment (the path the United States appears to be committing to currently), and seen that it allows us to indefinitely postpone mortality, at the cost that we can't stop doing it until we've made incredible advancements in prevention or treatment.
+
+The alternative is to (primarily) focus our resources (testing, governmental assistance) on the most at-risk individuals and locations (such as elderly care facilities):
+
 - Encourage at-risk groups to self quarantine, and utilize testing to protect them
     * All elderly, _especially nursing homes_ (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
-    * Those with obesity and COPD
+    * Those with comorbidities that place them at high risk (severe obesity, COPD, heart disease, etc)
+        - The above is not an exhaustive list. They key is that we do have the data to identify those at risk.
 - All others are _allowed_ to work and transact freely.
     * People are already scared stiff of this thing, they will take effective safety measures if we teach them how. We don't need to resort to compulsion.
     * By having non-at-risk indviduals develop natural immunity, they are less likely to spread to at-risk individuals in the long run.
 - We don't think it's politically feasible, but in a perfect world we could allow citizens to choose [voluntary self-exposure](https://www.medrxiv.org/content/10.1101/2020.04.12.20062687v1). This should NEVER be compelled, nor should we roll out "immunity certificates" for ethical reasons (we don't have such certificates for any other disease, despite them being deadly). Self-exposure has the additional benefit of allowing administration of a _controlled dose_ of SARS-CoV-2. Initial viral load is speculated to affect the final outcome, although we are unaware of research proving or disproving this one way or the other.
+
+So, what are the positives and negatives of such an approach? In order to evaluate the costs of _not_ implementing indefinite containment via a "lockdown" strategy, we need to have a reasonable [upper bound](https://en.wikipedia.org/wiki/Upper_and_lower_bounds) for the amount of COVID-19 deaths we might see.
+
+["Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand"](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) (hereafter referred to as "Ferguson")  is the key to getting a reasonable estimate of what a "worst-case" scenario might look like.
+
+Ferguson models an overall IFR of 0.9% by adjusting figures from [Verity et al](https://www.medrxiv.org/content/10.1101/2020.03.09.20033357v1.full.pdf) to account for a non-uniform [attack rate](https://en.wikipedia.org/wiki/Attack_rate).
+
+Rather than paraphrase their results, we'll just quote directly:
+
+"In the (unlikely) absence of any control measures or spontaneous changes in individual behaviour, we would expect a peak in mortality (daily deaths) to occur after approximately 3 months (Figure 1A). In such scenarios, given an estimated R_0 of 2.4, **we predict 81% of the GB and US populations would be infected over the course of the epidemic**. Epidemic timings are approximate given the limitations of surveillance data in both countries: **The epidemic is predicted to be broader in the US than in GB and to peak slightly later. This is due to the larger geographic scale of the US, resulting in more distinct localised epidemics across states** (Figure 1B) than seen across GB. The higher peak in mortality in GB is due to the smaller size of the country and its older population compared with the US. In total, in an unmitigated epidemic, we would predict approximately 510,000 deaths in GB and **2.2 million** in the US, not accounting for the potential negative effects of health systems being overwhelmed on mortality."
+
+So, modelling a **0.9% IFR** with a basic reproduction number of **2.4** leads to **82% of the US population getting infected**, ultimately ending up with **2.2 million deaths**. This seems like a reasonable upper bound on mortality.
+
+Note that we suspect that accounting for voluntary, uncoerced changes in behavior, as well as the fact that different groups likely have different susceptibility to infection, implies that this "worst-case" scenario is unlikely. However, understanding "downside risk" - what would happen in a worst case scenario - is very important for evaluating the drawbacks of a policy. (By similar logic, when evaluating Containment, we noted the need to account for the fact that the potential length of containment is unbounded and therefore the potential economic and psychological harm is unbounded as well)
+
+Thus this potential downside of short and medium term COVID-19 mortality is counterbalanced by avoidance of the lockdown-associated causes of mortality that we examined in Section 3.
+
+### Which path do we take?
+
+Before we look at how we answer this question, we should note that evidence points that "half-measures" - for example, what we've done in the US thus far - do not really accomplish anything. That's why we're presenting two possible paths and not three; we believe that a "middle road" solution carries all the risk of COVID-19-associated mortality that Pareto Mitigation risks, while also incurring the majorty of the lockdown-associated mortality and systemic destabilization that we have examined.
+
+Additionally, we should note that, partly due to length and time constraints, we have not covered the "pulsed" approach of intermittent lockdown. However, our position is that such an approach carries the same fundamental flaw of representing a "half-measure": the potential for widespread economic closures in the future, even if in the present the lockdown has been temporarily lifted, represents an undue pressure on businesses and the economy at large and thus runs the same risk of experiencing "most of the negatives and few of the benefits".
+
+Now, let's proceed. In order to make a rational decision, first we have to know what our values are.
+
+**Is it worth it to decrease the wellbeing of an entire society in order to prevent as much medium-term COVID-19 death as we possibly can?** Would we be more horrified living in a free society with 2.2 million of our loved ones dead, than we would be in a society in which COVID-19 death was much lower, at the expense of potentially years of not being allowed to go outside without permission, having government-controlled drones barking warnings about the dangerous of violating the lockdown, and destroying a huge portion of our population's livelihoods?
+
+How confident are we that lockdown-associated mortality is significantly lower than the mortality avoided by practicing indefinite containment?
+
+Which unknown are we more afraid of - the potential costs to our general wellbeing, personal freedoms and economic functioning, or instead the potential lives lost?
+
+The answer depends on our values. **The responsibility rests on each one of us as private citizens to decide which society we want to live in based on our own personal value structures.** Despite widespread statements to the contrary, epidemiologists, medical doctors, and politicians do not have a monopoly on policy decisions, nor on the values on which we base those decisions.
+
+As such, the ultimate decision on which path we should take is left as an exercise to the reader.
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era
 
