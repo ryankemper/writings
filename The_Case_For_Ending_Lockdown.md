@@ -151,9 +151,9 @@ In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a sig
 Evidence shows that SARS-CoV-2 is quite efficiently transmitted between humans. Furthermore asymptomatic and pre-symptomatic spread occur extensively. This is shown by the above "Lessons from Vo'", and is further bolstered by the following study:
 
 ["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) provides us the following insights:
-* "**Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission** after SARS-CoV-2 introduction into this facility"
-* "**viable SARS-CoV-2** was isolated from specimens of asymptomatic and presymptomatic residents. Evidence of transmission from presymptomatic persons has been shown in epidemiologic investigations of SARS-CoV-2."
-* "The data presented here suggest that sole reliance on symptom-based strategies may not be effective to prevent introduction of SARS-CoV-2 and further transmission in skilled nursing facilities."
+- "**Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission** after SARS-CoV-2 introduction into this facility"
+- "**viable SARS-CoV-2** was isolated from specimens of asymptomatic and presymptomatic residents. Evidence of transmission from presymptomatic persons has been shown in epidemiologic investigations of SARS-CoV-2."
+- "The data presented here suggest that sole reliance on symptom-based strategies may not be effective to prevent introduction of SARS-CoV-2 and further transmission in skilled nursing facilities."
 
 Finally, estimates of the basic reproduction number vary between studies, but Vo's estimate of 3.0 seems like a decent figure to work off of.
 
