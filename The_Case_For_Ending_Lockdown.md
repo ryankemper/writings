@@ -66,10 +66,9 @@ So, we've covered the basics of viruses and the immune system at the "individual
 
 In order to talk about how infectious and how deadly COVID-19 is, there's three important epidemiological concepts that need to be understood:
 
-   (1) [Basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number): Also called "R Nought", this number intuitively represents how many other people the average infected person goes on to infect, without accounting for population immunity. We classify how easily a disease spreads by its basic reproduction number, but note that there is not one "real" reproduction number. It's a function of environmental conditions, social interaction, etc.
+   (1a) [Basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number): Also called "R Nought", this number intuitively represents how many other people the average infected person goes on to infect, without accounting for population immunity. We classify how easily a disease spreads by its basic reproduction number, but note that there is not one "real" reproduction number. It's a function of environmental conditions, social interaction, etc.
 
-        It's common to use the **effective reproduction number** to describe in a more real sense how many people each individual is infecting on average at a moment in time. This is because the effective reproduction number accounts for non-susceptible individuals.
-        This number needs to be at or below 1 in order to contain a disease.
+   (1b) It's common to use the **effective reproduction number** R to describe in a more real sense how many people each individual is infecting on average at a moment in time. This is because the effective reproduction number accounts for non-susceptible individuals. This number needs to be at or below 1 in order to contain a disease.
 
    (2) [Case fatality rate](https://en.wikipedia.org/wiki/Case_fatality_rate): The proportion of _detected cases_ that result in death. This number will be higher than the "infection fatality rate" (the true "death rate") if there are undetected cases (as there are with COVID-19).
 
