@@ -151,7 +151,7 @@ In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a sig
 
 Evidence shows that SARS-CoV-2 is quite efficiently transmitted between humans. Furthermore asymptomatic and pre-symptomatic spread occur extensively. This is shown by the above "Lessons from Vo'", and is further bolstered by the following study:
 
-["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) provides us the with following insights:
+["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) provides us with the following insights:
 
 - "**Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission** after SARS-CoV-2 introduction into this facility"
 
