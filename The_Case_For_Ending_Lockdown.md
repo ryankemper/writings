@@ -284,7 +284,7 @@ Which unknown are we more afraid of - the potential costs to our general wellbei
 
 The answer depends on our values. **The responsibility rests on each one of us as private citizens to decide which society we want to live in based on our own personal value structures.** Despite widespread statements to the contrary, epidemiologists, medical doctors, and politicians do not have a monopoly on policy decisions, nor on the values on which we base those decisions.
 
-As such, the ultimate decision on which path we should take is left as an exercise to the reader.
+As such, **the ultimate decision on which path we should take is left as an exercise to the reader.**
 
 ## Section 5: The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era
 
