@@ -246,7 +246,8 @@ We've examined the policy of containment (the path the United States appears to 
 The alternative is to (primarily) focus our resources (testing, governmental assistance) on the most at-risk individuals and locations (such as elderly care facilities):
 
 - Encourage at-risk groups to self quarantine, and utilize testing to protect them
-    * All elderly, _especially nursing homes_ (all entrants to nursing homes need to take tests, wear face masks, wash hands, etc)
+    * All elderly, _especially nursing homes_
+        - ["Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility"](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457?query=recirc_mostViewed_railB_article) showed us that protecting the at-risk requires extremely careful infection control protocols due to pre-symptomatic spread.
     * Those with comorbidities that place them at high risk (severe obesity, COPD, heart disease, etc)
         - The above is not an exhaustive list. They key is that we do have the data to identify those at risk.
 - All others are _allowed_ to work and transact freely.
