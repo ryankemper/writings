@@ -145,7 +145,9 @@ The Venetian region of Vo' employed a highly aggressive lockdown between 23 Feb 
 - "We estimated that on average **41-42% of the infections are asymptomatic** and that the **lockdown reduced SARS-CoV-2 transmissibility**, on average by 89-99%, depending on the assumed initial value of R_0^1 and on the duration of virus detectability"
 - Effective reproduction number was **3.0** (95% CI 2.5-3.5) at the beginning of the study which declined to **0.14** (95% CI 0.0-0.29) by the end of the lockdown.
 
-In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a significant role, with their estimate being about half of cases being asymptomatic. This study provides evidence that extremely radical lockdown measures are effective in reducing spread. We'll examine this in more detail later when we characterize the policy of Containment and contrast it with our proposal of Pareto Mitigation. For now, we'll just say that the high proportion of asymptomatic transfer implies that one either needs to practice total containment (radical lockdown) or allow SARS-CoV-2 to pass through the population, whereas taking "half-measures" seems highly inadvisible.
+In conclusion, Vo' gives us strong evidence that asymptomatic spread plays a significant role, with their estimate being about half of cases being asymptomatic. This study provides evidence that extremely radical lockdown measures are effective in reducing spread.
+
+We'll examine this in more detail later when we characterize the policy of Containment and contrast it with our proposal of Pareto Mitigation. For now, we'll just say that the high proportion of asymptomatic transfer implies that one either needs to practice total containment (radical lockdown) or allow SARS-CoV-2 to pass through the population, whereas taking "half-measures" seems highly inadvisible.
 
 ### Transmissibility
 
