@@ -48,9 +48,9 @@ The second section, **"How serious is COVID-19?"**, will cover emerging evidence
 
 The third section, **"Lockdown-associated mortality and destabilization"**, will cover some of the theoretical and observed deleterious (negative) effects of the lockdown.
 
-The fourth section, **"Pareto Mitigation: An evidence-based approach"**, covers our proposed alternative for a COVID-19 mitigation policy.
+The fourth section, **Two Possible Paths**, explains our current policy of "Indefinite Containment" and contrasts it with "Pareto Mitigation": our proposed alternative for a COVID-19 mitigation policy.
 
-The fifth section, **"The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era"**, examines the attitudes and beliefs that have led to widely respected public health officials resorting to policies that do not stand up to evidence-based examination, and furthermore examines the ethics and constitutionality of those same policies.
+The fifth section, **"The Road to Hell is Paved With Good Intentions: Censorship and Superstition in the Post-COVID Era"**, examines the attitudes and beliefs that have led to widely respected public health officials resorting to policies that do not stand up to evidence-based examination, and furthermore (briefly) examines the ethics and constitutionality of those same policies.
 
 Finally, the intent of this article is to use the most precise language possible, while still remaining largely understandable to the average citizen. **This crisis effects us all and thus we should write and speak in a way that is accessible to all**. To that end, the final section is a "TL;DR" which uses only those words that are understandable by an elementary-school aged child, and focuses on reviewing the absolute most important points.
 
