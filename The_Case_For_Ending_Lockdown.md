@@ -281,7 +281,7 @@ Thus this potential downside of short and medium term COVID-19 mortality is coun
 
 ### Which path do we take?
 
-Before we look at how we answer this question, we should note that evidence points that "half-measures" - for example, what we've done in the US thus far - do not really accomplish anything. That's why we're presenting two possible paths and not three; we believe that a "middle road" solution carries all the risk of COVID-19-associated mortality that Pareto Mitigation risks, while also incurring the majorty of the lockdown-associated mortality and systemic destabilization that we have examined.
+Before we look at how we answer this question, we should note that evidence suggests that "half-measures" - for example, what we've done in the US thus far - do not really accomplish anything. That's why we're presenting two possible paths and not three; we believe that a "middle road" solution carries all the risk of COVID-19-associated mortality that Pareto Mitigation risks, while also incurring the majorty of the lockdown-associated mortality and systemic destabilization that we have examined.
 
 Additionally, we should note that, partly due to length and time constraints, we have not covered the "pulsed" approach of intermittent lockdown. However, our position is that such an approach carries the same fundamental flaw of representing a "half-measure": the potential for widespread economic closures in the future, even if in the present the lockdown has been temporarily lifted, represents an undue pressure on businesses and the economy at large and thus runs the same risk of experiencing "most of the negatives and few of the benefits".
 
