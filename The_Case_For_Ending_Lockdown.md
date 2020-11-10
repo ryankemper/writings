@@ -106,7 +106,7 @@ Initial reports claimed that COVID-19 had a CFR of around 4-5% and a shocking 20
 
 A recent [danish antibody study](https://www.medrxiv.org/content/10.1101/2020.04.24.20075291v1) concluded the following: "combined IFR in patients younger than 70 is estimated at 82 per 100,000", or **.082%**.
 
-Shifting to CFR, we have an [excellent study of italian healthcare workers](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf) which gives us the following figures (credit belongs to [reddit user PM_YOUR_WALLPAPER for this comment](https://old.reddit.com/r/COVID19/comments/g6nmtf/update_on_italian_progression_of_covid19/foatvgv/)):
+Shifting to CFR, we have an [excellent study of italian healthcare workers](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf) which gives us the following figures:
 
 |Age group|Mortality Rate (CFR)|
 |---|---|
