@@ -317,6 +317,8 @@ There's also an irony here: public figures like (in no particular order) Anthony
 
 ### The Soul of the Country is at Stake
 
+We as American citizens need to fight against this worrying trend of censorship and mass surveillance. Other countries do not have our uniquely robust (that is to say, with such few limitations) concept of freedom of speech/assembly. Thus we are in a unique position where **we are fighting not just to save lives, but perhaps more importantly, to save the soul of our country**.
+
 So, we feel that we must say that the right to freedom of assembly (along with all of our other rights) are not luxuries that are graciously extended to us by the ruling class. On the contrary, the entire philosophy that birthed the United States views these rights as **inalienable**, that is to say, not dependent on some external factor.
 
 Now, judicial and historical precedent has shown that some extremely limited restrictions can be put on these rights. But such restrictions need to be as narrow as feasible, and must be backed by an incredibly rock-solid justification. Neither of those conditions have been met here.
