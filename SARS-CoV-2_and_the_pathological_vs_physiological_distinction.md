@@ -1,6 +1,6 @@
 Before we dive into what exactly we mean when we describe a state as "pathological", or when we describe a bacteria or virus as "pathogenic", let's talk about a word that most of us are familiar with: **disease**.
 
-A *disease* is loosely defined as "a particular abnormal condition that negatively affects the structure or function of all or part of an organism". So, in order for something to be called a disease, *it has to actually be causing some type of problem* for the individual in question.
+A *disease* is loosely defined as "a particular abnormal condition that negatively affects the structure or function of all or part of an organism". So, in order for something to be called a disease, *it has to actually represent some type of problem* for the individual in question.
 
 Now, the term "pathology" refers to, essentially, the study of disfunction, particularly the cause and effects of diseases. A "pathological state" is a disease state. And thus a "pathogenic" bacteria is a bacteria that is actively causing - or at the least tends to cause - disease.
 
