@@ -117,3 +117,6 @@ CODING CODE COVID-19 DEATH => https://www.icd10data.com/ICD10CM/Codes/U00-U85/U0
 
 
 https://twitter.com/Kevin_McKernan/status/1320536482298384390 The Live-Dead qRT-PCR problem, the testing industrial complex and its impact on society
+
+
+https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics - looks like it might be relevant
