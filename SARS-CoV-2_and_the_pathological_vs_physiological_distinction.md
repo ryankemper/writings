@@ -1,10 +1,24 @@
 ## SARS-CoV-2 and the Pathological vs Physiological Distinction
+[WORK IN PROGRESS]
 
+See this important disclaimer about my utter lack of credentials: (TODO link)
 ### At a Glance
 
+- The mere presence of a virus or a bacteria is *not* an indicator of disease
+    * Ex: Everyone has C. Acnes on their skin, but only some people develop Acne Vulgaris ("acne")
+- Along the same lines as the above, we must always distinction between a *pathological* state and a *physiological* one
+- Asymptomatic COVID-19 is an oxymoron because it's not a disease and it's barely infectious
+- COVID-19 is commonly diagnosed through PCR tests, but we have to apply the pathological vs physiological distinction here!
+- Furthermore, the PCR tests are very flawed. After resolution of SARS-CoV-2 infection you can be PCR+ for *months* after
 - Blah
 - Blah Blah
 - Blah Blah Blah
+
+### Introduction
+
+This is a hybrid article that explores the distinction between a patho...physio...and applies this concept to SARS-CoV-2, the virus associated with the disease COVID-19, which most of us have heard way too much about across the last year+. (Blah blah blah)
+
+The germ theory of disease was a huge leap forward in our understanding of illness. But most of us have a dangerously oversimplified understanding of what the germ theory of disease actually is. Implicitly, many of us believe that it tells us that all bacteria or viruses cause harm (false), or that the presence of a bacteria/virus is the *only* thing we need to look at (false). In actuality, not all bacteria/viruses are pathogenic; of those that are pathogenic, their pathogenicity might not actually be "triggered" until/unless the underlying host (the infected person) falls into a state of nutrient deficiency, immune disregulation, or a pro-inflammatory state.
 
 ### Pathological vs Physiological
 
@@ -12,19 +26,21 @@ Before we dive into what exactly we mean when we describe a state as "pathologic
 
 A *disease* is loosely defined as "a particular abnormal condition that negatively affects the structure or function of all or part of an organism". So, in order for something to be called a disease, *it has to actually represent some type of problem* for the individual in question.
 
-Now, the term "pathology" refers to, essentially, the study of disfunction, particularly the cause and effects of diseases. A "pathological state" is a disease state. And thus a "pathogenic" bacteria is a bacteria that is actively causing - or at the least tends to cause - disease.
+Now, the term *pathology* refers to, essentially, the study of disfunction, particularly the cause and effects of diseases. A *pathological state* is a disease state. And thus for example a *pathogenic* bacteria is a bacteria that is actively causing - or at the least tends to cause - disease.
 
-On the other hand, we have the concept of *physiological* state, which can be thought of as a "normal" (non-pathological) physical state.
+On the other hand, we have the concept of a *physiological* state, which can be thought of as a "normal" (non-pathological) physical state.
 
-There are some ideas in medicine that are so fundamental that they are essential to every field of medicine. These include ideas like the *precautionary principle*\* (the idea that one should exercise caution and careful, rigorous review when deciding whether to take a given action under uncertain circumstances), the hippocratic oath (first: do no harm), and finally what I've taken to calling "the pathological vs physiological" distinction. In essence, the pathological vs physiological distinction is the recognition of the fact that when analyzing a medical situation, one must take care to distinguish between normal, non-dysfunctional physiological states, as opposed to dysfunctional, pathological states.
+There are some ideas in medicine that are so fundamental that they are essential to every field of medicine. These include ideas like the *precautionary principle*\* (the idea that one should exercise caution and careful, rigorous review when deciding whether to take a given action under uncertain circumstances), the hippocratic oath (first: do no harm), and finally what I've taken to calling *the pathological vs physiological distinction*. In essence, the pathological vs physiological distinction is the recognition of the fact that when analyzing a medical situation, **one must take care to distinguish between normal, non-dysfunctional physiological states, as opposed to dysfunctional, pathological states**.
 
-Why is this idea important? Well in short, it can be summed up in the old adage: "if it ain't broke, don't fix it". By problemitizing something that is not actually a problem, we risk causing (and indeed almost certainly *will* cause) unnecessary harm.
+Why is this idea important? Well in short, it can be summed up in the old adage: "if it ain't broke, don't fix it". By problematizing something that is not actually a problem, we risk causing (and indeed almost certainly *will* cause) unnecessary harm.
 
 Let's apply this manner of thinking to the disease known as COVID-19 as well as its associated virus, SARS-CoV-2, which causes (or more accurately, *can* cause) COVID-19. COVID-19 stands for "Coronavirus Infectious Disease 2019": *coronavirus* is the family of viruses to which the betacoronavirus *SARS-CoV-2* belongs, *infectious* means it can be spread to others, and we already defined disease above as essentially an abnormal state of dysfunction.
 
 It is my belief that one of the most serious issues with the societal handling of the emergence of SARS-CoV-2 is **the failure to distinguish between the physiological state of *having a virus* and the presence of a *truly pathological disease state***.
 
 Having defined what COVID-19 actually stands for, as well as outlining the basic concepts of a disease, a physiological state, and a pathological state, we have the requisite pieces to examine the first contradiction of how COVID-19 is labelled. The following scenario will illustrate the problem. Before proceeding, note that with the benefit of time it is now known that truly *asymptomatic* spread of SARS-CoV-2 is exceedingly rare (albeit technically possible) [TODO: CITATION], whereas *pre-symptomatic* spread does occur [TODO: CITATION]. Proceeding:
+
+#### An illustrative example
 
 --
 
@@ -58,11 +74,13 @@ Again, the working definition being actively used in many organizations worldwid
 
 If a country is pursuing a goal of containment (the US is not, although we like to incur all the negatives of trying to do so anyway), it makes sense to track the incidence of SARS-2 itself beyond merely tracking disease states: fine. Additionally, even in a country that isn't practicing containment (and most countries aren't), it's cool to be able to track the spread of the virus itself. That's fine. But it needs to be reported as a separate metric, not conflated (perhaps intentionally) with the disease state, which serves to drum up unnecessary fear and ultimately will lead to worsened health outcomes. Frightening people unnecessarily is bad, and it leads to them making irrational decisions that end up harming their health.
 
-### PCR
+### Polymerase Chain Reaction
 
-Next we'll take a look at the most common method for detecting SARS-CoV-2 infection. PCR, or polymerase chain reaction, is a method of exponentially amplifying specific subsections of DNA in a sample (via input of "primers") in order to detect the presence of a sequence of DNA. In the context of COVID-19, it's used to identify RNA associated with the SARS-CoV-2 virus.
+Next we'll take a look at the most common method for detecting SARS-CoV-2 infection. PCR, or *polymerase chain reaction*, is a method of exponentially amplifying specific subsections of DNA in a sample (via input of "primers") in order to detect the presence of a sequence of DNA. In the context of COVID-19, it's used to identify RNA associated with the SARS-CoV-2 virus.
 
-<quote from mullis about the basic concept>
+(If you're curious about what "polymerase chain reaction" actually means, any "science word" that ends in *-ase* denotes an *enzyme* (a chemical substance that acts as a catalyst to bring about a biochemical reaction). A *polymer* is a chain of very large molecules (*macromolecules*) composed of repeating subunits. Putting the two together, *polymerase* is an enzyme that brings about the formation of a particular polymer (especially DNA or RNA). The *chain reaction* comes from the fact that the genetic material (DNA or RNA) gets repeatedly doubled with each cycle of the *polymerase chain reaction*.)
+
+[TODO: quote from mullis about the basic concept]
 
 PCR, and more specifically qPCR (quantitative PCR), is a powerful technique with a bunch of different applications. **But there's a fundamental flaw with how we apply it in identifying COVID-19**.
 
@@ -70,36 +88,35 @@ There's two main problems with how we as a society are applying PCR:
 
 **(1)** As we discussed earlier in the article, the mere presence of a virus or some other pathogen is *not* an indicator of disease in its own right.
 
-<give example case definition https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1>
+[TODO: give example case definition https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1 ]
 
 **(2)** When applied improperly, qPCR can return false positives. There's actually two main types of false positives: what I'd call **(a)** "long tail false positives", as well as **(b)** "true false positives".
+
+#### Long tail pseudo-false-positives
 
 **(a)** The former is by far the most common and is the most glaring indictment of our mass-testing response to COVID-19. As we discussed, PCR works by performing stages of exponential amplification of the target genetic material. Eventually the genetic material has been amplified so much that the test hits on not just a true infection but also on the *remnants of a past infection*.
 
 Let's take a step back. When your body detects an infection it's going to break out a number of tools in its immunological toolkit. One of these methods is by having lymphocytes (TODO: verify it is lympocytes, I'm 90% confident) release a *reactive oxygen burst* upon a SARS-CoV-2 virion or an infected cell. This is the chemical equivalent of detonating a cellular hand grenade. As a result its target will be blown to pieces. This will leave remnant viral debris floating around to be gradually cleaned up; this debris includes chunks of SARS-CoV-2 viral RNA.
 
-The "lympocyte producing reactive oxygen burst" scenario is just one (particularly fun to visualize) example; but the important thing is to understand that past infections leave pieces of viral RNA hanging around for some time. As a result, depending on the parameters of the specific PCR test in question, someone can still test PCR+ *months after clearing an infection*.
+The "lympocyte producing reactive oxygen burst" scenario is just one particularly fun to visualize example; but the important thing is to understand that past infections leave pieces of viral RNA hanging around for some time. As a result, depending on the parameters of the specific PCR test in question, someone can still test PCR+ *months after clearing an infection*.
 
-To use a relevant example, many people are familiar with George Floyd, who died in the course of a police encounter. If you look at the Hennepin County Autopsy, they note that Floyd was PCR+ at his time of death. Yet a little digging shows that he had recovered [TODO: when'd he recover -> a couple months?] a couple months before he actually died. *This PCR+ result did not represent an active infection; it was a "long tail false positive" caused by the free-floating viral debris that had not yet been fully cleared out of his system*.
+To use a relevant example, many people are familiar with George Floyd, who died in the course of a police encounter. If you look at the Hennepin County Autopsy [TODO: link], they note that Floyd was PCR+ at his time of death. Yet a little digging shows that he had recovered [TODO: when'd he recover -> a couple months?] a couple months before he actually died. *This PCR+ result did not represent an active infection; it was a "long tail false positive" caused by the free-floating viral debris that had not yet been fully cleared out of his system*.
 
 These long tail false positives are especially concerning when looking at how we classify COVID deaths. Definitions vary but in almost every area the rule is simple: "if you're PCR+, and you die, you're a COVID death". It's why a young man who died in a motorcycle accident was initially labelled a COVID death by the state [TODO: link story] until the county health official got enough media attention to get it changed. It's also why scores of people who died of "natural causes" will be considered COVID deaths regardless of whether they successfully cleared their SARS-2 infection weeks before dying.
 
 It's also got obvious implications for how we treat people in a clinical sense, as well as the restrictions and quarantine measures that are forced upon an individual. A single long-tail false positive can prevent someone from working for weeks. Or it can lead to their pneumonia being mis-diagnosed as a result of SARS-CoV-2 as opposed to some other virus.
 
+#### True false positives
+
 **(b)** There's also the possibility of a true PCR false positive; that is, someone who has *never had SARS-CoV-2 infection* receiving a positive result. This is much more rare, but can occur when the [TODO: improve accuracy] primers themselves get amplified.
 
 Both the long-tail false positives and the true false positives are why we need to define COVID-19 cases the same way we do for any other disease. It's possible to have HIV without having AIDS. Similarly, it's possible to have SARS-CoV-2 *without any associated disease*; but the way we currently define it that's actually not the case. Again, because a positive PCR result alone is all that's required to label somebody a COVID-19 case, we end up with almost a completely meaningless case definition. Not only does this perpetuate the environment of fear and hysteria, but it also makes cases in their current form a completely absurd metric.
 
-Finally, while this doesn't fully fit with the theme of the article, it's worth noting that there's no de-duplication built into the system. You can take 5 PCR tests and if they're all positive that's 5 new cases, not 1. The absurdity of that should be self explanatory.
+#### Double-counting cases
+
+Finally, while this doesn't fully fit with the theme of the article, it's worth noting that there's no de-duplication built into the system. You can take 5 PCR tests and if they're all positive that's considered 5 "new" cases, not 1. The absurdity of that should be self evident.
 
 \* There's some debate as to whether the precautionary principle is actually the right approach or not. The complexities of the ethics there are out of the scope of the article, but it's worth saying that it would have really come in handy if we'd followed it for the COVID-19 pandemic at a minimum. (Specifically: universal masking / lockdown / rushing out vaccines)
-
-
-[TODO: Here's where we bring in the Kary Mullis stuff and show that PCR has turned into a total farce]
-- Presence of RNA doesn't necessarily mean presence of virus
-    - Long tail pseudo-false positive: stay testing positive for months after
-        - ex: George Floyd was C19+ (more accurately, PCR+) at time of death
-- More import
 
 
 
@@ -112,6 +129,8 @@ Finally, while this doesn't fully fit with the theme of the article, it's worth 
 
 
 TODO
+
+- Mention the C. Acnes example in the actual article (right now it's only in at a glance)
 
 CODING CODE COVID-19 DEATH => https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1
 
